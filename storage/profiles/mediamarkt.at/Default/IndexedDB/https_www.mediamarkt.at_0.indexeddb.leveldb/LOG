@@ -1,4 +1,0 @@
-2026/05/24-11:34:52.750 db3 Reusing MANIFEST /mnt/c/Users/Divyanshu_Singh/OneDrive - Infiniti Research/Documents/onecode/pc1/tn/webscroll/storage/profiles/mediamarkt.at/Default/IndexedDB/https_www.mediamarkt.at_0.indexeddb.leveldb/MANIFEST-000001
-2026/05/24-11:34:52.841 db3 Recovering log #3
-2026/05/24-11:34:52.911 db3 Reusing old log /mnt/c/Users/Divyanshu_Singh/OneDrive - Infiniti Research/Documents/onecode/pc1/tn/webscroll/storage/profiles/mediamarkt.at/Default/IndexedDB/https_www.mediamarkt.at_0.indexeddb.leveldb/000003.log 
-2026/05/24-11:34:55.604 db3 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

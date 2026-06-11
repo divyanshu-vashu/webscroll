@@ -1,9 +1,0 @@
-{
-  "target_url": "https://economictimes.indiatimes.com/prime/sbi-a-better-bank-or-a-better-valued-one/primearticleshow/130953518.cms?source=homepage&medium=prime_exclusives_header&campaign=prime_discovery",
-  "extracted_at": "2026-05-08T11:11:14.073170Z",
-  "extraction_tier_used": 1,
-  "driver_used": "httpx_client (Sprint 1)",
-  "status_code": 200,
-  "was_blocked": false,
-  "word_count": 1150
-}

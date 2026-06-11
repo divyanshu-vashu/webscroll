@@ -135,5 +135,5 @@ downloaded_files/
 .vashu/*
 .vashu
 *.bin
-storage/*
-storage/*/*.html
+storage/profiles/
+storage/extracted/
