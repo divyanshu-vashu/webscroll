@@ -1,0 +1,507 @@
+{
+  "train_html": [
+    {
+      "label": "bot_detected",
+      "vendor": "cloudflare",
+      "html": "<title>Attention Required! | Cloudflare</title><body>cf_chl_ challenge-platform window._cf_chl Checking your browser before accessing</body>"
+    },
+    {
+      "label": "bot_detected",
+      "vendor": "cloudflare",
+      "html": "<title>Just a moment...</title><body>cf_chl_seq jschl-answer DDoS protection by Cloudflare enable cookies</body>"
+    },
+    {
+      "label": "bot_detected",
+      "vendor": "cloudflare",
+      "html": "<title>Security Verification</title><body>cf-browser-verification challenge-platform automated requests detected</body>"
+    },
+    {
+      "label": "bot_detected",
+      "vendor": "cloudflare",
+      "html": "<body><script src='/cdn-cgi/challenge-platform'></script>window._cf_chl cf-ray browser integrity check</body>"
+    },
+    {
+      "label": "bot_detected",
+      "vendor": "akamai",
+      "html": "<title>Access Denied</title><body>Reference #18.8f6c2d17.1699999999. AkamaiGHost bot manager denied access</body>"
+    },
+    {
+      "label": "bot_detected",
+      "vendor": "akamai",
+      "html": "<title>Request Blocked</title><body>You don't have permission to access this resource. Akamai Bot Manager detected suspicious traffic.</body>"
+    },
+    {
+      "label": "bot_detected",
+      "vendor": "akamai",
+      "html": "<body>akamai bot protection sensor_data abck bm_sz request blocked unusual traffic detected</body>"
+    },
+    {
+      "label": "bot_detected",
+      "vendor": "akamai",
+      "html": "<title>Denied</title><body>Access denied by Akamai Kona Site Defender security policy violation detected</body>"
+    },
+    {
+      "label": "bot_detected",
+      "vendor": "datadome",
+      "html": "<title>Datadome Protection</title><body>Datadome captcha Please verify you are human ddv=4 challenge blocked request</body>"
+    },
+    {
+      "label": "bot_detected",
+      "vendor": "datadome",
+      "html": "<body>Access to this page has been denied Datadome bot protection automated browsing detected</body>"
+    },
+    {
+      "label": "bot_detected",
+      "vendor": "perimeterx",
+      "html": "<title>PerimeterX</title><body>Press and hold to confirm you are a human px-captcha pxhd perimeterx blocked</body>"
+    },
+    {
+      "label": "bot_detected",
+      "vendor": "perimeterx",
+      "html": "<body>perimeterx human verification required suspicious behavior detected px3 token validation failed</body>"
+    },
+    {
+      "label": "bot_detected",
+      "vendor": "imperva",
+      "html": "<title>Incapsula Incident ID</title><body>Request unsuccessful Incapsula incident ID bot mitigation security gateway</body>"
+    },
+    {
+      "label": "bot_detected",
+      "vendor": "imperva",
+      "html": "<body>Imperva protection triggered automated access blocked malicious request signature detected</body>"
+    },
+    {
+      "label": "bot_detected",
+      "vendor": "fastly",
+      "html": "<title>Error 403</title><body>Fastly error unknown domain request blocked edge security policy violation</body>"
+    },
+    {
+      "label": "bot_detected",
+      "vendor": "f5",
+      "html": "<body>F5 BIG-IP ASM detected illegal request web scraping protection enabled support ID provided</body>"
+    },
+    {
+      "label": "bot_detected",
+      "vendor": "shape_security",
+      "html": "<title>Shape Security</title><body>Bot traffic detected request fingerprint mismatch challenge required</body>"
+    },
+    {
+      "label": "bot_detected",
+      "vendor": "human_security",
+      "html": "<body>Human Security Satori firewall challenge browser verification required</body>"
+    },
+    {
+      "label": "bot_detected",
+      "vendor": "kasada",
+      "html": "<body>Kasada anti bot protection request rejected invalid browser telemetry</body>"
+    },
+    {
+      "label": "bot_detected",
+      "vendor": "recaptcha",
+      "html": "<title>Verify You Are Human</title><body><iframe src='https://google.com/recaptcha'></iframe>g-recaptcha data-sitekey robot check</body>"
+    },
+
+    {
+      "label": "normal",
+      "vendor": "cloudflare_news",
+      "html": "<title>Reuters Technology</title><body>Cloudflare announced quarterly earnings beating Wall Street estimates. Enterprise revenue increased 31 percent year over year.</body>"
+    },
+    {
+      "label": "normal",
+      "vendor": "cloudflare_blog",
+      "html": "<title>Cloudflare Blog</title><body>How Cloudflare Workers enables edge computing for developers globally with low latency execution.</body>"
+    },
+    {
+      "label": "normal",
+      "vendor": "akamai_news",
+      "html": "<title>CNBC Markets</title><body>Akamai Technologies shares rose after reporting strong CDN and cybersecurity demand in enterprise markets.</body>"
+    },
+    {
+      "label": "normal",
+      "vendor": "akamai_docs",
+      "html": "<title>Akamai Developer Docs</title><body>Learn how to configure Akamai edge caching rules and optimize API acceleration.</body>"
+    },
+    {
+      "label": "normal",
+      "vendor": "ecommerce",
+      "html": "<title>Amazon Deals</title><body>Wireless headphones now 40 percent off. Add to cart secure checkout customer reviews included.</body>"
+    },
+    {
+      "label": "normal",
+      "vendor": "github",
+      "html": "<title>GitHub Repository</title><body>Open source scraping toolkit with proxy rotation browser automation and anti detection modules.</body>"
+    },
+    {
+      "label": "normal",
+      "vendor": "news",
+      "html": "<title>Financial Times</title><body>Cybersecurity firms including Cloudflare Akamai and Fastly benefit from rising enterprise security spending.</body>"
+    },
+    {
+      "label": "normal",
+      "vendor": "education",
+      "html": "<title>MDN Web Docs</title><body>Learn about HTTP headers cookies caching browser storage and security best practices.</body>"
+    },
+    {
+      "label": "normal",
+      "vendor": "shopping",
+      "html": "<title>Best Buy</title><body>Laptops gaming monitors and graphics cards available with next day delivery and EMI payment options.</body>"
+    },
+    {
+      "label": "normal",
+      "vendor": "forum",
+      "html": "<title>Reddit Discussion</title><body>Users discuss bypassing rate limits ethically and compare CDN providers including Cloudflare and Fastly.</body>"
+    },
+    {
+      "label": "normal",
+      "vendor": "developer_news",
+      "html": "<title>Hacker News</title><body>Show HN scalable crawler architecture using Playwright proxies and fingerprint rotation.</body>"
+    },
+    {
+      "label": "normal",
+      "vendor": "finance",
+      "html": "<title>MarketWatch</title><body>Cloudflare stock gained 8 percent this week amid bullish analyst upgrades and AI product expansion.</body>"
+    },
+    {
+      "label": "normal",
+      "vendor": "wiki",
+      "html": "<title>Wikipedia</title><body>Akamai Technologies is an American content delivery network cybersecurity and cloud services provider.</body>"
+    },
+    {
+      "label": "normal",
+      "vendor": "sports",
+      "html": "<title>ESPN</title><body>Live cricket scores IPL playoff updates match statistics commentary and player rankings.</body>"
+    },
+    {
+      "label": "normal",
+      "vendor": "travel",
+      "html": "<title>Booking.com</title><body>Hotels resorts and vacation homes available in Bengaluru with free cancellation and breakfast included.</body>"
+    },
+    {
+      "label": "normal",
+      "vendor": "cloud_news",
+      "html": "<title>TechCrunch</title><body>Cloudflare expands AI inference capabilities at the edge through new GPU partnerships.</body>"
+    },
+    {
+      "label": "normal",
+      "vendor": "security_article",
+      "html": "<title>Krebs on Security</title><body>Analysis of modern bot mitigation vendors including PerimeterX DataDome and Kasada.</body>"
+    },
+    {
+      "label": "normal",
+      "vendor": "job_portal",
+      "html": "<title>LinkedIn Jobs</title><body>Software Engineer Backend Golang Kubernetes Redis Kafka AWS apply now Bengaluru India.</body>"
+    },
+    {
+      "label": "normal",
+      "vendor": "documentation",
+      "html": "<title>Playwright Docs</title><body>Automate Chromium Firefox and WebKit with browser contexts network interception and tracing support.</body>"
+    },
+    {
+      "label": "normal",
+      "vendor": "startup_news",
+      "html": "<title>The Verge</title><body>Fastly launches new edge security features to compete with Cloudflare enterprise offerings.</body>"
+    },
+
+    {
+      "label": "neutral",
+      "vendor": "unknown",
+      "html": "<title>Loading...</title><body>Please wait while the content loads.</body>"
+    },
+    {
+      "label": "neutral",
+      "vendor": "unknown",
+      "html": "<body>JavaScript required to continue using this application.</body>"
+    },
+    {
+      "label": "neutral",
+      "vendor": "unknown",
+      "html": "<title>Redirecting</title><body>You are being redirected to another page.</body>"
+    },
+    {
+      "label": "neutral",
+      "vendor": "unknown",
+      "html": "<body><div id='root'></div><script src='bundle.js'></script></body>"
+    },
+    {
+      "label": "neutral",
+      "vendor": "unknown",
+      "html": "<title>Maintenance</title><body>Service temporarily unavailable due to scheduled maintenance.</body>"
+    },
+    {
+      "label": "neutral",
+      "vendor": "unknown",
+      "html": "<body>Error processing request. Please try again later.</body>"
+    },
+    {
+      "label": "neutral",
+      "vendor": "unknown",
+      "html": "<title>Loading Dashboard</title><body>Fetching latest updates and analytics.</body>"
+    },
+    {
+      "label": "neutral",
+      "vendor": "unknown",
+      "html": "<body><noscript>Please enable JavaScript to continue.</noscript></body>"
+    },
+    {
+      "label": "neutral",
+      "vendor": "unknown",
+      "html": "<title>Welcome</title><body>Sign in or create an account to continue.</body>"
+    },
+    {
+      "label": "neutral",
+      "vendor": "unknown",
+      "html": "<body>Request received successfully processing in progress.</body>"
+    },
+  
+  {
+    "html": "<title>Attention Required! | Cloudflare</title><body>cf_chl_ challenge-platform window._cf_chl Checking your browser</body>",
+    "label": "blocked",
+    "vendor": "cloudflare_legacy"
+  },
+  {
+    "html": "<title>Just a moment...</title><body>challenge-platform cf_chl_seq jschl-answer DDoS protection by Cloudflare</body>",
+    "label": "blocked",
+    "vendor": "cloudflare_js_challenge"
+  },
+  {
+    "html": "<title>Access Denied</title><body>cf-browser-verification cf_chl_ Please enable cookies. Cloudflare Ray ID</body>",
+    "label": "blocked",
+    "vendor": "cloudflare_cookie"
+  },
+  {
+    "html": "<html><head><script src='challenge-platform/h/b/orchestrate'></script></head><body>cf_chl_ window._cf_chl</body></html>",
+    "label": "blocked",
+    "vendor": "cloudflare_turnstile"
+  },
+  {
+    "html": "<title>Attention Required</title><body>cf_chl_opt cf_chl_seq cf-ray jschl_answer DDoS protection</body>",
+    "label": "blocked",
+    "vendor": "cloudflare_captcha"
+  },
+  {
+    "html": "<title>Security Check</title><body>cf_chl_ challenge-platform cf-browser-verification Cloudflare turnstile response</body>",
+    "label": "blocked",
+    "vendor": "cloudflare_turnstile"
+  },
+  {
+    "html": "<title>Access Denied</title><body><h1>Access Denied</h1><p>You don't have permission to access this resource.</p><p>Reference #18.12345678.123456789.1234567</p></body>",
+    "label": "blocked",
+    "vendor": "akamai_reference_error"
+  },
+  {
+    "html": "<html><head><script src=\"/akamai/datastreams/script.js\"></script></head><body>Access Denied. Your IP address has been blocked. Reference ID: 0.1a2b3c4d</body></html>",
+    "label": "blocked",
+    "vendor": "akamai_ip_block"
+  },
+  {
+    "html": "<title>Pardon Our Interruption</title><body>As you were browsing something about your browser made us think you were a bot. Akamai Bot Manager.</body>",
+    "label": "blocked",
+    "vendor": "akamai_bot_manager"
+  },
+  {
+    "html": "<html><body><script type=\"text/javascript\" src=\"https://geo.captcha-delivery.com/captcha.js\"></script>datadome window.dataDomeOptions</body></html>",
+    "label": "blocked",
+    "vendor": "datadome_captcha"
+  },
+  {
+    "html": "<title>Verify you are human</title><body><div id=\"datadome-wrapper\"><iframe src=\"https://geo.captcha-delivery.com/captcha/\" title=\"DataDome Captcha\"></iframe></div></body>",
+    "label": "blocked",
+    "vendor": "datadome_iframe"
+  },
+  {
+    "html": "<html><head></head><body><script>var dd={'cid':'12345','ip':'1.1.1.1'};</script><script src=\"https://ct.datadome.co/c.js\"></script></body></html>",
+    "label": "blocked",
+    "vendor": "datadome_script"
+  },
+  {
+    "html": "<title>Please Verify</title><body><div id=\"px-captcha\"></div><script src=\"https://client.perimeterx.net/PX123456/main.min.js\"></script></body>",
+    "label": "blocked",
+    "vendor": "perimeterx_human"
+  },
+  {
+    "html": "<html><body>Press and hold to confirm you are a human (and not a bot). _pxAppId window._pxVid</body></html>",
+    "label": "blocked",
+    "vendor": "perimeterx_press_hold"
+  },
+  {
+    "html": "<title>Pardon Our Interruption</title><body><script src=\"/_px/challenge.js\"></script>Please complete the challenge below.</body>",
+    "label": "blocked",
+    "vendor": "perimeterx_challenge"
+  },
+  {
+    "html": "<html><head><script src=\"/_Incapsula_Resource?SWJIYLWA=50223\"></script></head><body>Incapsula incident ID: 12345-67890</body></html>",
+    "label": "blocked",
+    "vendor": "imperva_incapsula"
+  },
+  {
+    "html": "<title>Bot Activity Detected</title><body>The request was blocked by Imperva Web Application Firewall. Request ID: ABC-123.</body>",
+    "label": "blocked",
+    "vendor": "imperva_waf"
+  },
+  {
+    "html": "<title>403 Forbidden</title><body><center><h1>403 Forbidden</h1></center><hr><center>AWS WAF</center></body>",
+    "label": "blocked",
+    "vendor": "aws_waf"
+  },
+  {
+    "html": "<html><body>aws-waf-captcha-ui aws-waf-token Please complete the captcha to access this page.</body></html>",
+    "label": "blocked",
+    "vendor": "aws_waf_captcha"
+  },
+  {
+    "html": "<body>SIZE_TINY DOM_SPARSE SCRIPT_HEAVY_LOW_TEXT HAS_CF_CHL_ cf_chl_seq</body>",
+    "label": "blocked",
+    "vendor": "cloudflare_heuristic_pattern"
+  },
+  {
+    "html": "<title>Bloomberg Markets</title><body>Cloudflare reported Q3 2024 earnings beating analyst expectations. Revenue grew 28 percent year over year. Stock rose 12 percent after hours.</body>",
+    "label": "normal",
+    "vendor": "cloudflare_news"
+  },
+  {
+    "html": "<title>TechCrunch</title><body>Cloudflare launches new AI gateway product. The company announced integration with OpenAI and Anthropic APIs enabling developers to route requests intelligently.</body>",
+    "label": "normal",
+    "vendor": "cloudflare_news"
+  },
+  {
+    "html": "<title>Reuters Finance</title><body>Cloudflare stock NET up 5 percent today as analysts raise price target. Market cap reaches 30 billion. Strong enterprise customer growth continues.</body>",
+    "label": "normal",
+    "vendor": "cloudflare_financial"
+  },
+  {
+    "html": "<title>Hacker News</title><body>Show HN: We built a Cloudflare Workers alternative that is 10x cheaper. Comments 243. Points 891. Ask HN discussion thread.</body>",
+    "label": "normal",
+    "vendor": "cloudflare_forum"
+  },
+  {
+    "html": "<title>GitHub Repository</title><body>cloudflare-workers-sdk open source project. Contributors 148. Stars 12k. Issues pull requests discussions. MIT License.</body>",
+    "label": "normal",
+    "vendor": "cloudflare_code"
+  },
+  {
+    "html": "<title>News Article</title><body>Cloudflare CEO Matthew Prince discusses cybersecurity trends at RSA Conference. The company protects over 20 percent of internet traffic daily.</body>",
+    "label": "normal",
+    "vendor": "cloudflare_news"
+  },
+  {
+    "html": "<title>Financial Times</title><body>Cloud infrastructure stocks rally. Cloudflare, Fastly, and Akamai all post gains as enterprise spending on CDN services increases in Q4.</body>",
+    "label": "normal",
+    "vendor": "multi_brand_financial"
+  },
+  {
+    "html": "<title>Dev Blog</title><body>How we migrated from AWS to Cloudflare R2 and saved 70 percent on storage costs. Tutorial guide step by step migration process.</body>",
+    "label": "normal",
+    "vendor": "cloudflare_blog"
+  },
+  {
+    "html": "<title>Market Watch</title><body>Weekly market recap technology sector. Akamai AKAM closes at 105 dollars. Volume 2.3 million shares. 52 week high 120 dollars low 90 dollars.</body>",
+    "label": "normal",
+    "vendor": "akamai_financial"
+  },
+  {
+    "html": "<title>Wikipedia</title><body>Cloudflare Inc is an American company that provides content delivery network services DDoS mitigation Internet security founded in 2009 San Francisco.</body>",
+    "label": "normal",
+    "vendor": "cloudflare_wiki"
+  },
+  {
+    "html": "<title>Cybersecurity Weekly</title><body>Akamai Technologies acquires Noname Security to bolster its API security portfolio. The acquisition marks a significant shift in edge computing strategy.</body>",
+    "label": "normal",
+    "vendor": "akamai_news"
+  },
+  {
+    "html": "<title>AWS Architecture Blog</title><body>Comparing AWS CloudFront with Akamai Edge. A deep dive into global latency, caching strategies, and CDN pricing models.</body>",
+    "label": "normal",
+    "vendor": "akamai_blog"
+  },
+  {
+    "html": "<title>G2 Reviews</title><body>DataDome Bot Protection Reviews. 4.8 out of 5 stars. Users praise its accuracy but note that integration can take time. Read full DataDome reviews.</body>",
+    "label": "normal",
+    "vendor": "datadome_reviews"
+  },
+  {
+    "html": "<title>TechCrunch Startup News</title><body>DataDome raises $42 million in Series C funding to expand global operations and fight malicious AI scraping bots.</body>",
+    "label": "normal",
+    "vendor": "datadome_news"
+  },
+  {
+    "html": "<title>Capterra</title><body>Top Alternatives to PerimeterX. Compare HUMAN Security (formerly PerimeterX), DataDome, and Cloudflare Bot Management for enterprise e-commerce.</body>",
+    "label": "normal",
+    "vendor": "multi_brand_reviews"
+  },
+  {
+    "html": "<title>Imperva Documentation</title><body>How to configure the Imperva Web Application Firewall (WAF) for custom routing. A guide for system administrators.</body>",
+    "label": "normal",
+    "vendor": "imperva_docs"
+  },
+  {
+    "html": "<title>InfoSecurity Magazine</title><body>Thales completes acquisition of Imperva. The deal creates a global leader in data and application security.</body>",
+    "label": "normal",
+    "vendor": "imperva_news"
+  },
+  {
+    "html": "<title>Reddit SysAdmin</title><body>Anyone else having issues with AWS WAF blocking legitimate traffic? I'm getting 403 Forbidden errors on my API endpoints since the rules update.</body>",
+    "label": "normal",
+    "vendor": "aws_waf_forum"
+  },
+  {
+    "html": "<title>StackOverflow</title><body>How to bypass Cloudflare 403 error in Python requests? I am trying to scrape a site but getting blocked. Answer: Use undetected-chromedriver or tls spoofing.</body>",
+    "label": "normal",
+    "vendor": "cloudflare_forum"
+  },
+  {
+    "html": "<title>Cyber Defense</title><body>The evolution of CAPTCHA. From reCAPTCHA to hCaptcha and Cloudflare Turnstile, how companies are trying to prove you are human without friction.</body>",
+    "label": "normal",
+    "vendor": "cloudflare_article"
+  },
+  {
+    "html": "<title>404 Not Found</title><body><h1>404 Page Not Found</h1>The resource you requested could not be found on this server. Please check the URL and try again.</body>",
+    "label": "neutral",
+    "vendor": "generic_404"
+  },
+  {
+    "html": "<title>500 Internal Server Error</title><body>An unexpected error occurred. Our engineers have been notified. Please try refreshing the page in a few minutes.</body>",
+    "label": "neutral",
+    "vendor": "generic_500"
+  },
+  {
+    "html": "<title>Amazon Products</title><body>Buy now add to cart. Free shipping on orders over 35 dollars. Best price guaranteed. Customer reviews 4.5 stars. Sony Headphones WH-1000XM5.</body>",
+    "label": "neutral",
+    "vendor": "ecommerce_product"
+  },
+  {
+    "html": "<title>Product Page</title><body>Latest smartphones laptops tablets. Compare prices from top retailers. Free delivery available next day shipping checkout secure payment.</body>",
+    "label": "neutral",
+    "vendor": "ecommerce_vendor"
+  },
+  {
+    "html": "<title>Login Portal</title><body>Username Password Forgot your password? Sign in to access your dashboard. Don't have an account? Sign up here.</body>",
+    "label": "neutral",
+    "vendor": "generic_login"
+  },
+  {
+    "html": "<title>Contact Us</title><body>Get in touch. Fill out the form below to send us a message. First Name, Last Name, Email Address, Submit. 123 Main Street, New York.</body>",
+    "label": "neutral",
+    "vendor": "generic_contact"
+  },
+  {
+    "html": "<title>Maintenance</title><body>We are currently undergoing scheduled maintenance. The site will be back up shortly. Thank you for your patience.</body>",
+    "label": "neutral",
+    "vendor": "generic_maintenance"
+  },
+  {
+    "html": "<title>Privacy Policy</title><body>Last updated October 2023. We collect information to provide better services to our users. Your data is encrypted and stored securely.</body>",
+    "label": "neutral",
+    "vendor": "generic_legal"
+  },
+  {
+    "html": "<title>Local News Weather</title><body>Heavy rain expected this weekend. Flash flood warnings in effect for the tri-state area. Highs in the mid 60s.</body>",
+    "label": "neutral",
+    "vendor": "generic_news"
+  },
+  {
+    "html": "<title>Recipe Blog</title><body>How to bake the perfect chocolate chip cookies. Ingredients: flour, sugar, butter, chocolate chips. Bake at 350 degrees for 12 minutes. Let cool before serving.</body>",
+    "label": "neutral",
+    "vendor": "generic_blog"
+  }
+]
+}

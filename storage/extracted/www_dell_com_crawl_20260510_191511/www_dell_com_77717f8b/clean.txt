@@ -1,0 +1,249 @@
+Edge Solutions | Dell India
+How can we help you?
+Chat with Sales
+Mon – Fri, 9:30AM - 12AM (Business)
+Request a Sales Callback
+Technical Support
+Order Support
+Contact Us
+Contact Us
+Edge Solutions
+Video Player is loading.
+Play Video
+Play
+Skip Backward
+Skip Forward
+Unmute
+Current Time
+0:00
+/
+Duration
+0:00
+Loaded
+:
+0%
+Stream Type
+LIVE
+Seek to live, currently behind live
+LIVE
+Remaining Time
+-
+0:00
+1x
+Playback Rate
+Chapters
+Chapters
+Descriptions
+descriptions off
+, selected
+Subtitles
+subtitles settings
+, opens subtitles settings dialog
+subtitles off
+, selected
+Audio Track
+Picture-in-Picture
+Fullscreen
+This is a modal window.
+The Playback API request failed for an unknown reason
+Error Code:
+VIDEO_CLOUD_ERR_UNKNOWN
+Technical details
+:
+Unknown catalog request error.
+Session ID:
+2026-05-10:63d698efebb02d7cdd1d96e5
+Player Element ID:
+bgvideo-in-en-bsd-006adec1-d1a4-4f43-9e81-4f10fd356b83-edge-solutions-dellbuyercontentlayoutwebparts-1
+OK
+Close Modal Dialog
+Beginning of dialog window. Escape will cancel and close the window.
+Text
+Color
+White
+Black
+Red
+Green
+Blue
+Yellow
+Magenta
+Cyan
+Opacity
+Opaque
+Semi-Transparent
+Text Background
+Color
+Black
+White
+Red
+Green
+Blue
+Yellow
+Magenta
+Cyan
+Opacity
+Opaque
+Semi-Transparent
+Transparent
+Caption Area Background
+Color
+Black
+White
+Red
+Green
+Blue
+Yellow
+Magenta
+Cyan
+Opacity
+Transparent
+Semi-Transparent
+Opaque
+Font Size
+50%
+75%
+100%
+125%
+150%
+175%
+200%
+300%
+400%
+Text Edge Style
+None
+Raised
+Depressed
+Uniform
+Drop shadow
+Font Family
+Proportional Sans-Serif
+Monospace Sans-Serif
+Proportional Serif
+Monospace Serif
+Casual
+Script
+Small Caps
+Reset
+Done
+Close Modal Dialog
+End of dialog window.
+Close Modal Dialog
+This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.
+Edge Solutions
+Capitalize on your edge to generate more value from your data
+Watch Dell Edge in Action
+Overview
+Products and Solutions
+Industry Verticals
+Customer Stories
+Resources
+Next Steps
+Act on data at its point of creation
+The edge is where data is processed—right at its creation point—unlocking immediate and critical value. Dell Technologies empowers businesses to act on data at its source, enabling greater efficiency, enhanced experiences, and accelerated innovation.
+Leverage AI
+Orchestrate workloads for AI inferencing and Deep Learning to scale up data at the edge.
+Simplify your edge
+Modernize edge AI architecture and workloads at scale to power various use cases.
+Protect your edge
+Embed cybersecurity expertise into your IT infrastructure and processes.
+Dell Technologies is #1 for edge storage and edge servers*
+Dell NativeEdge
+Learn about our most advanced and cost-effective solution for virtualized workloads at the edge and in distributed data centers. **
+Explore Dell NativeEdge →
+Servers
+Deliver differentiated performance at scale by enabling your business to react quickly to evolving technologies and customer demand with intelligent automation that reduces the management burden.
+Explore Servers →
+Private Cloud Solutions
+Dell Private Cloud Solutions enable flexible infrastructure and virtualization, streamlining edge deployment with zero-touch onboarding, high availability, and flexibility.*
+Explore Private Cloud Solutions →
+Original Equipment Manufacturer
+Reimagine the products you offer and how you make and monetize them. Leverage our capabilities, portfolio and decades of global experience to design innovative solutions and accelerate time to market.
+Explore OEM →
+Networking
+Scale your edge connectivity and networking as your business needs evolve.*
+Explore Networking  →
+Data Storage
+Become an enabler and innovator with storage that helps you optimize any workload and discover the hidden value within your data.
+Explore Data Storage →
+Transform your business with advanced Edge Solutions
+Manufacturing
+Empower manufacturing with AI-driven edge solutions that bridge innovation and implementation. Scale industrial transformation with support for diverse smart manufacturing use cases, enabling efficiency, precision, and innovation to drive better business outcomes on the factory floor.
+Explore Resources
+Retail
+Transform retail operations with edge solutions that simplify and enhance the customer experience. Leverage AI-powered computer vision to reduce shrinkage, automate warehouse tasks, and ensure seamless device and store technology management with minimal downtime.
+Explore Resources
+Smart Cities
+Transform urban living with AI-driven edge solutions and cognitive capabilities that enhance safety, mobility, and sustainability. Dell Technologies Smart Cities deliver real-time insights, automation, and resource efficiency, empowering governments to build smarter, resilient, and sustainable communities.
+Explore Resources
+Energy
+Revolutionize energy operations with AI-optimized edge solutions for real-time insights and efficiency. Enable precise energy management, automation, and robust security while driving sustainability and simplifying deployment for SCADA, IoT, and digital twin applications.
+Explore Resources
+Edge Services
+Success at the edge requires expertise and resources to efficiently manage locational, operational and security challenges. Learn how Dell Technologies Edge Services can help you harness the opportunity at the edge.
+Explore Edge Services
+87% of Fortune 100 companies use Dell Technologies for their edge solutions. **
+CUSTOMER STORY
+Empowering Education with a Smart Campus
+Learn how MSU collaborates with Dell Technologies to build a Smart Campus, combining modern infrastructure, virtual desktops, and centralized tools to enhance learning, research, security, and sustainability.
+Watch Video
+CUSTOMER STORY
+Innovating Agriculture at the Edge
+Discover how ZERO is transforming agriculture with Dell Edge Solutions, using real-time data and scalable technology to help growers optimize operations, boost sustainability, and adapt swiftly.
+Watch Video
+CUSTOMER STORY
+Accelerating Performance with Real-Time Data
+Explore how Dell’s advanced computing solution empowers McLaren Racing to analyze data instantly, driving car upgrades every 17 minutes.
+Read the Case Study
+Watch Video
+CUSTOMER STORY
+Empowering Education with a Smart Campus
+Learn how MSU collaborates with Dell Technologies to build a Smart Campus, combining modern infrastructure, virtual desktops, and centralized tools to enhance learning, research, security, and sustainability.
+Watch Video
+CUSTOMER STORY
+Innovating Agriculture at the Edge
+Discover how ZERO is transforming agriculture with Dell Edge Solutions, using real-time data and scalable technology to help growers optimize operations, boost sustainability, and adapt swiftly.
+Watch Video
+Edge Resources
+Viewing
+of 7
+/
+7
+E-GUIDE
+Unify your AI, edge, and multicloud strategies to accelerate innovation
+View the e-guide →
+E-BOOK
+Transform your organization by capitalizing on data at the edge
+Read the e-book →
+E-BOOK
+Transforming financial services with AI and edge Computing
+Read the e-book →
+E-BOOK
+Transforming manufacturing with AI and edge computing View the eBook
+Read the e-book →
+E-BOOK
+Transforming retail with AI and edge computing  View the eBook
+Read the e-book →
+E-BOOK
+Transforming Urban Spaces with AI and Edge Computing
+Read the e-book  →
+E-BOOK
+Transforming Healthcare and Life Sciences with AI and Edge Computing
+Read the e-book  →
+Explore All Edge Resources
+Next steps
+Get guidance on solutions for your organization
+Talk to an Edge Expert and find out which solutions are best for your company.
+Contact an Edge Expert →
+Become a partner
+Edge certified solution partners help customers achieve their business outcomes and innovate faster with the Edge.
+*Source: IDC Worldwide Quarterly Enterprise Infrastructure Tracker: Buyer and Cloud Deployment, Q1 2025, June 2025.  Based on revenue. Edge storage and edge servers refer to the heavy edge category, which IDC defines as the physical equipment that serves as the foundational infrastructure for edge.
+**Source: Based on Dell Technologies internal analysis, May 2025.
+Compare
+Compare Products (
+)
+Add the products you would like to compare, and quickly determine which is best for your needs.
+Hide
+Add the products you would like to compare, and quickly determine which is best for your needs.
+Previous Page
+Next Page
+Compare Products

@@ -1,0 +1,13 @@
+{
+  "target_url": "https://www.dell.com/en-in/lp/dt/industry-retail",
+  "extracted_at": "2026-05-11T04:52:51.753129+00:00",
+  "driver_used": "playwright",
+  "crawl_depth": 1,
+  "was_blocked": false,
+  "detection_type": "NORMAL",
+  "detection_score": 0,
+  "elapsed_seconds": 3414.56,
+  "html_size_bytes": 1155511,
+  "word_count": 1164,
+  "error": null
+}

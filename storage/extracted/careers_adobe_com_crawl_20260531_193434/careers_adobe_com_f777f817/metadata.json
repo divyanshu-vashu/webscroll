@@ -1,0 +1,85 @@
+{
+  "target_url": "https://careers.adobe.com/us/en/c/engineering-and-product-jobs?from=80&s=1",
+  "extracted_at": "2026-05-31T19:43:23.484215+00:00",
+  "driver_used": "cloakbrowser",
+  "crawl_depth": 8,
+  "was_blocked": false,
+  "detection_type": "NORMAL",
+  "detection_score": 0,
+  "elapsed_seconds": 54.64,
+  "html_size_bytes": 1847944,
+  "word_count": 733,
+  "markdown_length": 5592,
+  "error": null,
+  "session_key": "careers_adobe_com",
+  "protection_type": "ALLOW",
+  "engine_decision": {
+    "path": "browser",
+    "reason": "domain has repeated browser successes and can be trialed via HTTP; escalated after HTTP probe failure: HTTP probe was blocked",
+    "domain_state_version": 30,
+    "similarity_score": null,
+    "escalated_from": "http_probe_trial"
+  },
+  "attempt_trace": {
+    "started_at": "2026-05-31T19:42:28.771027+00:00",
+    "completed_at": "2026-05-31T19:43:23.414298+00:00",
+    "attempts": [
+      {
+        "driver_name": "http_probe",
+        "path": "http_probe_trial",
+        "elapsed": 0.02,
+        "html_size": 0,
+        "blocked": true,
+        "detection": {
+          "is_blocked": true,
+          "page_type": "ERROR",
+          "confidence": 1.0,
+          "reasons": [
+            "Client.__init__() got an unexpected keyword argument 'proxies'"
+          ],
+          "score": 100
+        },
+        "protection_signal": {
+          "kind": "EMPTY",
+          "vendor": null,
+          "confidence": 1.0,
+          "reasons": [
+            "Client.__init__() got an unexpected keyword argument 'proxies'"
+          ],
+          "recommended_next_step": "retry_or_fallback_browser"
+        },
+        "status_code": 0,
+        "error": "Client.__init__() got an unexpected keyword argument 'proxies'",
+        "session_key": "careers_adobe_com",
+        "action_count": 0
+      },
+      {
+        "driver_name": "cloakbrowser",
+        "path": "browser",
+        "elapsed": 53.07,
+        "html_size": 1847944,
+        "blocked": false,
+        "detection": {
+          "is_blocked": false,
+          "page_type": "NORMAL",
+          "confidence": 0.0,
+          "reasons": [],
+          "score": 0,
+          "html_size": 1847944
+        },
+        "protection_signal": {
+          "kind": "ALLOW",
+          "vendor": "CAPTCHA",
+          "confidence": 0.0,
+          "reasons": [],
+          "recommended_next_step": "allow"
+        },
+        "status_code": null,
+        "error": null,
+        "session_key": "careers_adobe_com",
+        "action_count": 0
+      }
+    ]
+  },
+  "extraction_metrics": {}
+}

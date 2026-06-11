@@ -1,0 +1,13 @@
+{
+  "target_url": "https://www.dell.com/myaccount/en-in",
+  "extracted_at": "2026-05-10T14:02:48.255554+00:00",
+  "driver_used": "playwright",
+  "crawl_depth": 1,
+  "was_blocked": false,
+  "detection_type": "NORMAL",
+  "detection_score": 0,
+  "elapsed_seconds": 206.95,
+  "html_size_bytes": 276180,
+  "word_count": 491,
+  "error": null
+}

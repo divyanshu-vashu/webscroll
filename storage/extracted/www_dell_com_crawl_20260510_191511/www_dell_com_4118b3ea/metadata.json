@@ -1,0 +1,13 @@
+{
+  "target_url": "https://www.dell.com/en-in/shop/power-cooling-data-center-infrastructure/ac/4116",
+  "extracted_at": "2026-05-10T14:55:45.917862+00:00",
+  "driver_used": "patchright",
+  "crawl_depth": 1,
+  "was_blocked": false,
+  "detection_type": "NORMAL",
+  "detection_score": 0,
+  "elapsed_seconds": 209.92,
+  "html_size_bytes": 885199,
+  "word_count": 459,
+  "error": null
+}

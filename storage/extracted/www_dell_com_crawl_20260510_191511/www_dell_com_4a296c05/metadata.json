@@ -1,0 +1,13 @@
+{
+  "target_url": "https://www.dell.com/en-in/lp/dt/workloads-vdi",
+  "extracted_at": "2026-05-10T21:24:15.577953+00:00",
+  "driver_used": "patchright",
+  "crawl_depth": 1,
+  "was_blocked": false,
+  "detection_type": "NORMAL",
+  "detection_score": 0,
+  "elapsed_seconds": 11041.12,
+  "html_size_bytes": 862792,
+  "word_count": 590,
+  "error": null
+}

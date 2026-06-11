@@ -1,0 +1,98 @@
+[
+  {
+    "url": "https://example.com",
+    "category": "normal",
+    "expected_unlock": true,
+    "notes": "Static control page for baseline sanity checks."
+  },
+  {
+    "url": "https://httpbin.org/html",
+    "category": "normal",
+    "expected_unlock": true,
+    "notes": "Simple HTML page for extraction sanity checks."
+  },
+  {
+    "url": "https://www.python.org/",
+    "category": "normal",
+    "expected_unlock": true,
+    "notes": "General content page for standard browser trust runs."
+  },
+  {
+    "url": "https://www.cloudflare.com/",
+    "category": "cloudflare",
+    "expected_unlock": true,
+    "notes": "Cloudflare-owned domain used to inspect challenge handling without assuming failure."
+  },
+  {
+    "url": "https://www.browserscan.net/bot-detection",
+    "category": "bot_fingerprint_test",
+    "expected_unlock": true,
+    "notes": "Useful for manually checking whether the active browser path looks automated."
+  },
+  {
+    "url": "https://news.ycombinator.com/",
+    "category": "listing",
+    "expected_unlock": true,
+    "notes": "Listing page to verify link-rich extraction."
+  },
+  {
+    "url": "https://www.mediamarkt.at/de/",
+    "category": "product_listing",
+    "expected_unlock": true,
+    "notes": "Retail listing used for extraction and anti-bot regression."
+  },
+  {
+    "url": "https://www.mediamarkt.at/de/product/_gorenje-rb-492-pw-kuhlschrank-e-845-mm-hoch-weiss-142380563.html",
+    "category": "product_detail",
+    "expected_unlock": true,
+    "notes": "Known protected product page used in local debugging."
+  },
+  {
+    "url": "https://github.com/login",
+    "category": "login_wall",
+    "expected_unlock": false,
+    "notes": "Used to confirm login wall classification rather than bypass."
+  },
+  {
+    "url": "https://www.linkedin.com/login",
+    "category": "login_wall",
+    "expected_unlock": false,
+    "notes": "Used to confirm login wall handling on a stricter auth gate."
+  },
+  {
+    "url": "https://httpbin.org/status/429",
+    "category": "rate_limit",
+    "expected_unlock": false,
+    "notes": "Used to confirm rate-limit classification and proxy policy."
+  },
+  {
+    "url": "https://httpbin.org/status/403",
+    "category": "hard_block",
+    "expected_unlock": false,
+    "notes": "Used to confirm hard-block handling."
+  },
+  {
+    "url": "https://httpbin.org/status/503",
+    "category": "soft_block",
+    "expected_unlock": false,
+    "notes": "Used to confirm retryable service block handling."
+  },
+  {
+    "url": "https://react.dev/",
+    "category": "js_heavy",
+    "expected_unlock": true,
+    "notes": "Modern front-end site useful for JS-required regression."
+  },
+  {
+    "url": "https://www.npmjs.com/package/react",
+    "category": "js_heavy",
+    "expected_unlock": true,
+    "notes": "JS-heavy page for browser-first routing checks."
+  },
+  {
+    "url": "https://httpbin.org/redirect/3",
+    "category": "redirect_chain",
+    "expected_unlock": true,
+    "notes": "Used to validate final URL capture and cookie persistence over redirects."
+  }
+]

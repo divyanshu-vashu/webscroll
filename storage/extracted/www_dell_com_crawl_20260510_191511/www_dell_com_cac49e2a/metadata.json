@@ -1,0 +1,13 @@
+{
+  "target_url": "https://www.dell.com/en-in/lp/dt/industry-higher-ed",
+  "extracted_at": "2026-05-11T00:44:03.092914+00:00",
+  "driver_used": "playwright",
+  "crawl_depth": 1,
+  "was_blocked": false,
+  "detection_type": "NORMAL",
+  "detection_score": 0,
+  "elapsed_seconds": 237.55,
+  "html_size_bytes": 1044033,
+  "word_count": 1105,
+  "error": null
+}

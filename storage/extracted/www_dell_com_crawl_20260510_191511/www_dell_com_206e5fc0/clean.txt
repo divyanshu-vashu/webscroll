@@ -1,0 +1,207 @@
+Networking Solutions - Scalable, AI-Ready Infrastructure | Dell India
+How can we help you?
+Chat for Warranty Renewal
+Mon - Fri: 09:00 am to 6:00 pm IST
+Technical Support
+Contact Us
+Contact Us
+Intel Innovation Built-In
+Learn More about Intel
+Networking
+Accelerate AI, HPC, and modern workloads with industry-leading networking switches and innovative software solutions.
+Explore Solutions
+Browse Demos
+Intel Innovation Built-In
+Learn More about Intel
+TECHNOLOGY LEADERSHIP
+Dell Technologies is the first vendor to offer the disaggregated networking model. A member of the Ultra Ethernet Consortium, Dell is a thought leader, active contributor, and board member of the Linux Foundation's SONIC community project.
+CUSTOMER SUCCESS
+Hot Aisle chose Dell Technologies networking solutions, including PowerSwitch Z9864-N and Dell SONiC, to provide high-performance computing to businesses of all sizes.
+Watch the video
+Previous Page
+Next Page
+TECHNOLOGY LEADERSHIP
+Dell Technologies is the first vendor to offer the disaggregated networking model. A member of the Ultra Ethernet Consortium, Dell is a thought leader, active contributor, and board member of the Linux Foundation's SONIC community project.
+CUSTOMER SUCCESS
+Hot Aisle chose Dell Technologies networking solutions, including PowerSwitch Z9864-N and Dell SONiC, to provide high-performance computing to businesses of all sizes.
+Watch the video
+Showing page 1 of 2
+1 of 2
+vp_alert-inf-cir
+vp--chevron-right
+vp--chevron-left
+vp_dds2__icon--arrow-right
+Enable seamless enterprise and AI fabrics
+Modernise your network with powerful, scalable solutions for AI and modern workloads. Simplify fabric management and deliver seamless connectivity across edge, core, and cloud environments.
+Dell Networking Overview Video
+Scalable
+Design your data centre and edge networks to handle evolving workload demands with flexible architectures, simplified deployments, and seamless integration capabilities.
+Read the ESG report
+Agile
+Integrate the networking hardware, software, and operating systems that best fit your requirements while avoiding vendor lock-in with an innovative open networking model.
+Read the solution brief
+Simple
+Streamline operations with powerful network management tools that automate and simplify deployment, orchestration, monitoring, and lifecycle management of network fabrics.
+Read the infographic
+Optimised for AI
+Power the latest advances in AI technologies with high-performance, high-density switches that are purpose-built to accelerate hyperscale AI fabrics.
+Read the GenAI brief
+Explore networking solutions
+AI switches
+High-performance switches with low latency and high throughput for deploying advanced AI clusters effectively.
+BEST FOR:
+High-speed AI data transfers
+Optimised deep learning workflows
+Real-time AI application scaling
+Explore AI Switches
+Data center switches
+Dense, high-capacity, top-of-rack or core/aggregation switches for building optimised data center leaf-and-spine fabrics.
+BEST FOR:
+Scalable, high-throughput networks
+Secure multi-cloud integration
+High-performance computing clusters
+Explore Data Center Switches
+Edge platforms
+Modern, integrated edge solutions for bandwidth-intensive applications, Power-over-Ethernet (PoE) devices, and Internet-of-Things (IoT).
+BEST FOR:
+Real-time localised data insights
+Reliable edge-to-core IoT support
+Faster computing for end-users
+Explore Edge Platforms
+Networking Software
+High-performance software for fabrics that power IT workloads and accelerate AI application deployment.
+BEST FOR:
+Centralised network management
+Proactive performance analytics
+Agile, future-proof integrations
+Explore Networking Software
+il_dds__icon--arrow-right
+Try our networking management software
+Experience networking  management software with self-paced virtual labs in free, real-time virtual environments.
+Browse hands-on labs
+cp_dds__icon--pop-up-arrow-corner
+cp--chevron-right
+cp--chevron-left
+cp_dds2__icon--arrow-right
+Networking Resources
+Networking Resources
+Customer stories
+Related services
+Customer stories
+Previous Slide
+Next Slide
+SNS Network
+Unlocking innovation to build a Sovereign AI future
+SNS AI Factory integrates Dell PowerEdge XE-Series servers with NVIDIA accelerated computing, NVIDIA AI Enterprise and Run:ai software, Dell PowerSwitch and NVIDIA Quantum InfiniBand switches for low-latency networking, trusted performance and scalability.
+Read SNS AI Factory story
+HOPE WORKS
+Transforming futures with AI-powered training
+Hopeworks uses the Dell AI Factory with NVIDIA to equip underserved youth with skills, boosting career opportunities, starting salaries and job retention.
+Read Hope Works' story
+OREGON STATE UNIVERSITY
+Supporting vital global scientific research
+Oregon State University deploys solutions from the Dell AI Factory to transform research ships into edge devices running AI.
+Read OSU's story
+HOT AISLE
+Making high performance compute accessible to SMB
+Hot Aisle uses PowerSwitch Z-series and Enterprise SONiC to offer enterprise AI compute access to all business sizes.
+Read Hot Aisle's story
+ESTONIAN IT CENTRE (RIT)
+Modernising Estonia's digital leadership
+RIT and Dell transformed Estonia's digital governance with SONiC & PowerSwitch, boosting efficiency and scalability.
+Read RIT's story
+Close
+SONiC Case Study (Video-Clean) - Dell IT
+DELL IT
+Future-ready networking
+Dell IT leverages SONiC to deliver scalable, opensource enterprise networking built for tomorrow.
+Watch the video
+Showing page 1 of 2
+1/2
+SNS Network
+Unlocking innovation to build a Sovereign AI future
+SNS AI Factory integrates Dell PowerEdge XE-Series servers with NVIDIA accelerated computing, NVIDIA AI Enterprise and Run:ai software, Dell PowerSwitch and NVIDIA Quantum InfiniBand switches for low-latency networking, trusted performance and scalability.
+Read SNS AI Factory story
+HOPE WORKS
+Transforming futures with AI-powered training
+Hopeworks uses the Dell AI Factory with NVIDIA to equip underserved youth with skills, boosting career opportunities, starting salaries and job retention.
+Read Hope Works' story
+OREGON STATE UNIVERSITY
+Supporting vital global scientific research
+Oregon State University deploys solutions from the Dell AI Factory to transform research ships into edge devices running AI.
+Read OSU's story
+HOT AISLE
+Making high performance compute accessible to SMB
+Hot Aisle uses PowerSwitch Z-series and Enterprise SONiC to offer enterprise AI compute access to all business sizes.
+Read Hot Aisle's story
+ESTONIAN IT CENTRE (RIT)
+Modernising Estonia's digital leadership
+RIT and Dell transformed Estonia's digital governance with SONiC & PowerSwitch, boosting efficiency and scalability.
+Read RIT's story
+Close
+SONiC Case Study (Video-Clean) - Dell IT
+DELL IT
+Future-ready networking
+Dell IT leverages SONiC to deliver scalable, opensource enterprise networking built for tomorrow.
+Watch the video
+Related services
+Previous Slide
+Next Slide
+SERVICES
+Dell services for networking
+Dell offers consulting, deployment, support, and managed services to help your business accelerate the adoption of new technologies.
+Read the data sheet
+SERVICES
+ProSupport Infrastructure Suite
+Explore technical resources for Dell networking products and solutions.
+Explore ProSupport
+SERVICES
+ProDeploy Infrastructure Suite
+Accelerate tech Integration with tallored deployment for your server hardware and software. Start strong from day one.
+Explore ProDeploy
+SERVICES
+Dell services for networking
+Dell offers consulting, deployment, support, and managed services to help your business accelerate the adoption of new technologies.
+Read the data sheet
+SERVICES
+ProSupport Infrastructure Suite
+Explore technical resources for Dell networking products and solutions.
+Explore ProSupport
+SERVICES
+ProDeploy Infrastructure Suite
+Accelerate tech Integration with tallored deployment for your server hardware and software. Start strong from day one.
+Explore ProDeploy
+AwardTrophy
+ar_dds__icon--pop-up-arrow-corner
+ar--chevron-right
+ar--chevron-left
+Awards and reviews
+Don't just take our word for it
+Previous Slide
+Next Slide
+TMCnet
+Product of the Year
+Dell PowerSwitch Z9864F-ON
+TMC 2025 Unified Communications Product of the Year
+Read about this award
+Read about Product of the Year
+TMC
+Product of the Year
+Dell PowerSwitch Z9664F-ON
+TMC 2023 Communications Solutions Product of the Year Award Winner
+Read about this award
+Read about Product of the Year
+TMC
+Product of the Year
+PowerSwitch S5448F-ON
+TMC 2022 Communications Solutions Product of the Year Award Winner
+Read about this award
+Read about Product of the Year
+TMC
+Product of the Year
+Dell PowerSwitch Z9432F-ON
+TMC 2021 Communications Solutions Product of the Year Award Winner
+Read about this award
+Read about Product of the Year
+Showing page 1 of 2
+1/2

@@ -1,0 +1,13 @@
+{
+  "target_url": "https://www.foxtrot.com.ua/ru/shop/piylesosiy-aeg-as62cb25dh-blackgrey.html",
+  "extracted_at": "2026-05-15T20:29:04.545532+00:00",
+  "driver_used": "patchright",
+  "crawl_depth": 0,
+  "was_blocked": false,
+  "detection_type": "SUSPICIOUS",
+  "detection_score": 25,
+  "elapsed_seconds": 24.29,
+  "html_size_bytes": 1708,
+  "word_count": 31,
+  "error": null
+}

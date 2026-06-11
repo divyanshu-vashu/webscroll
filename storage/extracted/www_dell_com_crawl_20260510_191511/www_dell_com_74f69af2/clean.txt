@@ -1,0 +1,270 @@
+IT and Cyber Security Solutions | Dell India
+Register Now
+How can we help you?
+Chat with Sales
+Mon – Fri, 9:30AM - 12AM (Business)
+Request a Sales Callback
+Technical Support
+Order Support
+Contact Us
+Contact Us
+Dell Security Solutions
+Video Player is loading.
+Play Video
+Play
+Skip Backward
+Skip Forward
+Unmute
+Current Time
+0:00
+/
+Duration
+0:00
+Loaded
+:
+0%
+Stream Type
+LIVE
+Seek to live, currently behind live
+LIVE
+Remaining Time
+-
+0:00
+1x
+Playback Rate
+Chapters
+Chapters
+Descriptions
+descriptions off
+, selected
+Subtitles
+subtitles settings
+, opens subtitles settings dialog
+subtitles off
+, selected
+Audio Track
+Picture-in-Picture
+Fullscreen
+This is a modal window.
+The Playback API request failed for an unknown reason
+Error Code:
+VIDEO_CLOUD_ERR_UNKNOWN
+Technical details
+:
+Unknown catalog request error.
+Session ID:
+2026-05-10:4cdcb70d7cfa027b5a578d93
+Player Element ID:
+bgvideo-in-en-bsd-d921f0f5-ef9a-41d1-8192-9db2daa3f5cf-security-solutions-item-carousel-hero-banner-css
+OK
+Close Modal Dialog
+Beginning of dialog window. Escape will cancel and close the window.
+Text
+Color
+White
+Black
+Red
+Green
+Blue
+Yellow
+Magenta
+Cyan
+Opacity
+Opaque
+Semi-Transparent
+Text Background
+Color
+Black
+White
+Red
+Green
+Blue
+Yellow
+Magenta
+Cyan
+Opacity
+Opaque
+Semi-Transparent
+Transparent
+Caption Area Background
+Color
+Black
+White
+Red
+Green
+Blue
+Yellow
+Magenta
+Cyan
+Opacity
+Transparent
+Semi-Transparent
+Opaque
+Font Size
+50%
+75%
+100%
+125%
+150%
+175%
+200%
+300%
+400%
+Text Edge Style
+None
+Raised
+Depressed
+Uniform
+Drop shadow
+Font Family
+Proportional Sans-Serif
+Monospace Sans-Serif
+Proportional Serif
+Monospace Serif
+Casual
+Script
+Small Caps
+Reset
+Done
+Close Modal Dialog
+End of dialog window.
+Close Modal Dialog
+This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.
+CYBERSECURITY SOLUTIONS
+Advance your cybersecurity maturity
+Don't let cybersecurity risks stifle innovation.
+Explore Interactive eBook
+Viewing
+1-3
+of 3
+1-3
+/
+3
+Reduce the attack
+surface
+Minimize vulnerabilities and entry points with
+secure supply chain practices, built-in identity controls, and expert assessments that help keep malicious actors out.
+Detect and respond to threats
+Identify and address threats with advanced detection capabilities, real-time monitoring, and expert response services that help protect your data.
+Recover from a cyberattack
+Restore systems and data confidently with Dell’s recovery solutions, including automated system recovery, secure backups, and 24/7 expert support to minimize downtime and get back to business fast.
+Overview
+Products and Solutions
+Customer Stories
+Resources
+Premier Login
+Assess your cybersecurity maturity
+Are you confident in your organization’s cybersecurity readiness? Explore expert insights on building intelligent, scalable defenses and see
+where you stand with a comprehensive cyber resilience assessment.
+Take the Assessment
+Read eBook →
+Cybersecurity Awareness Month
+Join Dell this Cybersecurity Awareness Month to tackle today’s most urgent challenges and learn how to protect your organization in a rapidly evolving threat landscape.
+Join the Discussion
+Comprehensive security, built into every layer
+Dell Trusted Workspace
+Work securely from anywhere with the world’s most secure commercial AI PCs and software solutions, offering advanced threat protection across endpoint, network, and cloud.
+1
+Explore Dell Trusted Workspace
+Security and Resilience Services
+Simplify security operations with automated, integrated services that help you understand risks, reduce vulnerabilities, and accelerate threat response and recovery.
+Explore Security and Resilience Services
+Trusted Infrastructure
+A secure, scalable family of solutions designed for zero trust, integrating security across Dell servers, networking, storage and data protection—while ensuring supply chain security.
+Explore Trusted Infrastructure
+PowerEdge Security
+Protect your data and infrastructure with security-first server architecture built to be flexible, AI-optimized, and designed to support your changing data workloads.
+Explore PowerEdge Security
+Storage
+Achieve high-performance, secure storage solutions from the #1 external enterprise storage provider designed to safeguard your data at scale.
+2
+Explore Storage
+Cyber Resilience
+Boost your cyber resilience with AI-powered backup, recovery, and multicloud data protection solutions that keep your critical data safe and accessible
+Explore Cyber Resilience
+PowerScale Cybersecurity Suite
+Safeguard your unstructured data with advanced, integrated solutions that detect threats in real time, isolate critical assets with airgap technology, and ensure rapid recovery to minimize downtime.
+Explore PowerScale Cybersecurity Suite
+CUSTOMER STORY: FINANCIAL SERVICES
+Creating a robust data protection and cyber resilience solution
+RHB Banking Group gained world-class cyber resilience for its critical workloads, with greatly accelerated data backups and restores as well as flawless, efficient compliance with regulatory requirements.
+Explore Full Story
+CUSTOMER STORY: HEALTHCARE
+Driving healthcare transformations with secure AI
+With the assurance of world-class security, PureHealth can deploy innovative advancements in healthcare, and they can achieve early detection, better treatment outcomes, and provide targeted care.
+Explore Full Story
+CUSTOMER STORY: PUBLIC UTILITIES
+Strengthening cyber resilience in mission-critical situations
+Lafayette Utilities System enhances their cyber resiliency with intelligent data protection that enables proactive threat protection from natural disasters and cyberattacks.
+Explore Full Story
+CUSTOMER STORY: FINANCIAL SERVICES
+Creating a robust data protection and cyber resilience solution
+RHB Banking Group gained world-class cyber resilience for its critical workloads, with greatly accelerated data backups and restores as well as flawless, efficient compliance with regulatory requirements.
+Explore Full Story
+CUSTOMER STORY: HEALTHCARE
+Driving healthcare transformations with secure AI
+With the assurance of world-class security, PureHealth can deploy innovative advancements in healthcare, and they can achieve early detection, better treatment outcomes, and provide targeted care.
+Explore Full Story
+Maximize AI’s potential securely
+AI is transforming the way businesses innovate, however it also brings about new security risks. Dell experts dive into how you can unlock AI’s full potential while staying secure and ahead of evolving threats.
+View GenAI & Security Infographic →
+Watch Maximize GenAI Video →
+Post-Quantum Cryptography
+Quantum computing is reshaping cybersecurity, making the transition to quantum-resistant encryption essential for safeguarding digital assets. Dell's expertise guides organizations toward a secure and quantum-safe future
+Read White Paper
+Read eBook
+Cybersecurity Resources
+Viewing
+of 5
+/
+5
+AUDIO STORIES
+The Cybersecurity Tapes
+This first-of-its-kind audio drama from Dell explores what it takes to stay prepared in an unpredictable and fast-changing cybersecurity landscape.
+Browse Audio Stories
+VIDEO
+Creating a Secure Environment for Innovation
+For Cybersecurity Awareness Month, Sameer Shah of Dell talks to Dr. Tony Bryson, CISO of Gilbert, AZ, about real-world strategies for building secure, innovation-ready environments.
+Watch Video
+INFOGRAPHIC
+How to create a secure environment for innovation
+Learn how strong cybersecurity can become a catalyst for innovation while supporting growth, creativity, and agility without compromising protection.
+View Infographic
+BRIEF
+Advance cybersecurity maturity checklist
+Understand where your organization stands today and use these checklists to identify gaps, strengthen defenses, and advance your cybersecurity, and zero trust maturity.
+Read Brief
+RANSOMWARE INFOGRAPHIC
+How to survive a ransomware attack
+Five essential tips to help your organization stay resilient in the face of ransomware.
+View Infographic
+Ready to simplify how you explore, buy and manage your technology solutions? Join Dell Premier.
+Sign in
+Create a free account
+Expert Reviews & Awards
+FAQ
+What is zero trust security, and how does it protect against cyber threats?
+Zero trust security is a cybersecurity framework that requires strict identity verification for every user and device accessing a network. By enforcing least-privilege access, continuous monitoring, and multi-factor authentication (MFA), zero trust helps prevent unauthorized access and reduces the risk of data breaches.
+What are the best practices for ransomware protection?
+Effective ransomware protection includes regular data backups, endpoint security solutions, network segmentation, and email security measures to prevent phishing attacks. Organizations should also deploy advanced threat detection tools and maintain strong cyber hygiene practices to reduce the risk of ransomware infections.
+How does endpoint security protect devices from cyber threats?
+Endpoint security safeguards devices such as laptops, servers, and mobile phones from malware, ransomware, and unauthorized access. Using AI-driven threat detection, endpoint encryption, and automated patch management helps ensure device security across enterprise networks.
+What role does supply chain security play in cybersecurity?
+Supply chain security protects against cyber threats that exploit trusted relationships between organizations and their suppliers. Implementing vendor risk assessments, secure access controls, and continuous monitoring helps prevent supply chain attacks and data breaches.
+How can businesses strengthen their network security?
+Businesses can improve network security by deploying firewalls, intrusion prevention systems (IPS), zero-trust architecture, and network segmentation. Regular security audits, encrypted communication protocols, and advanced threat management further enhance network protection.
+What is digital risk protection, and why is it essential?
+Digital risk protection involves monitoring and mitigating cyber threats that target an organization’s digital presence, including social media, dark web activity, and brand impersonation. Implementing anti-phishing tools, email security solutions, and real-time threat intelligence helps prevent data leaks and reputational damage.
+Based on Dell internal analysis, October 2024 (Intel) and March 2025 (AMD). Applicable to PCs on Intel and AMD processors. Not all features available with all PCs. Additional purchase required for some features. Intel-based PCs validated by Principled Technologies.
+https://www.principledtechnologies.com/Dell/OEM-security-feature-comparison-0424.pdf
+, (in English) April 2024.
+#1 provider of external enterprise storage. IDC Quarterly Enterprise Storage Systems Tracker, 2024 Q4, March 13, 2025 – Vendor Revenue.
+Compare
+Compare Products (
+)
+Add the products you would like to compare, and quickly determine which is best for your needs.
+Hide
+Add the products you would like to compare, and quickly determine which is best for your needs.
+Previous Page
+Next Page
+Compare Products

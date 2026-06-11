@@ -1,0 +1,57 @@
+{
+  "target_url": "https://in.linkedin.com/company/razorpay/jobs",
+  "extracted_at": "2026-05-26T21:42:29.165172+00:00",
+  "driver_used": "cloakbrowser",
+  "crawl_depth": 0,
+  "was_blocked": false,
+  "detection_type": "NORMAL",
+  "detection_score": 0,
+  "elapsed_seconds": 140.08,
+  "html_size_bytes": 178689,
+  "normalized_html_size_bytes": 15509,
+  "word_count": 98,
+  "markdown_length": 2908,
+  "error": null,
+  "session_key": "in_linkedin_com",
+  "protection_type": "ALLOW",
+  "engine_decision": {
+    "path": "browser",
+    "reason": "unknown or untrusted domain stays on browser waterfall",
+    "domain_state_version": 2,
+    "similarity_score": null,
+    "escalated_from": null
+  },
+  "attempt_trace": {
+    "started_at": "2026-05-26T21:40:08.991035+00:00",
+    "completed_at": "2026-05-26T21:42:29.071219+00:00",
+    "attempts": [
+      {
+        "driver_name": "cloakbrowser",
+        "path": "browser",
+        "elapsed": 139.51,
+        "html_size": 178689,
+        "blocked": false,
+        "detection": {
+          "is_blocked": false,
+          "page_type": "NORMAL",
+          "confidence": 0.0,
+          "reasons": [],
+          "score": 0,
+          "html_size": 178689
+        },
+        "protection_signal": {
+          "kind": "ALLOW",
+          "vendor": null,
+          "confidence": 0.0,
+          "reasons": [],
+          "recommended_next_step": "allow"
+        },
+        "status_code": null,
+        "error": null,
+        "session_key": "in_linkedin_com",
+        "action_count": 0
+      }
+    ]
+  },
+  "extraction_metrics": {}
+}

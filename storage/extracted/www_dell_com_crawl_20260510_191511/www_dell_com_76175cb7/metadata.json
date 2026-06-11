@@ -1,0 +1,13 @@
+{
+  "target_url": "https://www.dell.com/en-in/lp/dt/industry-healthcare",
+  "extracted_at": "2026-05-11T00:40:03.692008+00:00",
+  "driver_used": "patchright",
+  "crawl_depth": 1,
+  "was_blocked": false,
+  "detection_type": "NORMAL",
+  "detection_score": 0,
+  "elapsed_seconds": 222.03,
+  "html_size_bytes": 1287550,
+  "word_count": 1201,
+  "error": null
+}

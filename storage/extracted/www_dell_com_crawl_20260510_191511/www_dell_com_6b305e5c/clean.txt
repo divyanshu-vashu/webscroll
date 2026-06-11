@@ -1,0 +1,211 @@
+Dell AI Data Platform | Dell India
+How can we help you?
+Chat for Warranty Renewal
+Mon - Fri: 09:00 am to 6:00 pm IST
+Technical Support
+Contact Us
+Contact Us
+AI USE CASE
+Dell AI Data Platform
+It's not just an OS. It's cognition at scale.
+View Resources
+Watch video
+Stop Motion
+Play Motion
+vp_alert-inf-cir
+vp--chevron-right
+vp--chevron-left
+vp_dds2__icon--arrow-right
+Break Data Silos, Boost Speed, Stop Bad Actors
+Scale AI Anywhere — With Your Data Everywhere.
+Unlock the Power of Data with Dell’s AI Data Platform
+Place
+Land data on storage built for efficiency at scale.
+Process
+Transform raw data into strategic assets.
+Protect
+Keep operations secure and compliant.
+Proven to accelerate analytics and AI
+3-5x
+Faster queries
+Cloud Data Warehouse vs. Cloud Data Lakehouse: A Snowflake vs. Starburst TCO and Performance Comparison, published by GigaOm
+≤53%
+Cost reduction in data analytics.
+Based on an internal analysis of service requests from the prior two years for Dell Technologies data protection and high-end storage products covered by ProSupport Plus for Infrastructure vs. products with Basic coverage, February 2024. Actual results may vary.
+3x
+Faster deployment with ProDeploy Plus
+Based on a May 2023 Principled Technologies study “Using Dell ProDeploy Plus Infrastructure can improve deployment times for Dell technology”
+≤50%
+Lower storage footprint
+Based on 61TB QLC drives release in late 2024.
+pf_dds__icon--pop-up-arrow-corner
+pf_alert-inf-cir
+cp--chevron-right
+cp--chevron-left
+pf_dds2__icon--arrow-right
+The Dell Advantage
+Modular by Design. Open, Flexible, Future-proof.
+Simplifying Data Storage
+Store and manage structured, semi-structured, and unstructured data with Dell Storage Engines. Unified File and Object storage supports hybrid environments, while S3 Object Storage ensures cloud-native scalability.
+Curating Data for Al
+Prepare and manage data from apps, devices, and other sources with Dell Data Engines. They clean, organize, and optimize information for analytics, Al training, and real-time decision-making.
+Securing Data Confidently
+Protect sensitive information with built-in security, including access controls, data masking, and encryption. Cyber-resilient features like data isolation safeguard data during potential attacks.
+Automate Al Data Pipelines
+Connect and orchestrate pipelines, models, and humans across the full Al lifecycle with Dell Orchestration Engine. Support building and deploying workflows for unstructured, multimodal data across cloud, on-prem, and hybrid environments.
+Getting started?
+Getting started?
+Solution Brief
+Featured customer stories
+Stop Motion
+Play Motion
+Previous Page
+Next Page
+Transforms Filmmaking with AI
+Kennedy Miller Mitchell uses Generative AI, powered by Dell and NVIDIA, to fast-track filmmaking and connect global teams.
+Read the AI success story
+Powers EyeSight Technology with PowerScale
+Subaru enhanced its AI-powered EyeSight Driver Assist Technology, using Dell PowerScale for advanced data solutions.
+Read Subaru’s AI success story
+Showing page 1 of 2
+1/2
+Explore other AI use cases categories
+Knowledge Assistant
+Code Assistant
+ComputerVision
+Agentic AI Platform
+cp_dds__icon--pop-up-arrow-corner
+cp--chevron-right
+cp--chevron-left
+cp_dds2__icon--arrow-right
+AI Data Platform Resources
+Offerings
+AI Data Platform Resources
+Offerings
+AI Data Platform Resources
+Resources
+Analyst
+Analyst
+Offerings
+Previous Slide
+Next Slide
+Data Engines
+Purpose built for all enterprise data
+Access, prepare, enrich and create data products for analytics and Al.
+Explore Dell Data Analytics Engine
+Data Engines
+Connect and Orchestrate Al Data Pipelines
+Support the full Al lifecycle building and deploying workflows for unstructured multi-model data.
+Explore Dell Orchestration Engine
+Storage Engine
+PowerScale
+Share data seamlessly with unified file/object storage.
+Explore PowerScale
+Storage Engine
+ObjectScale
+Scale globally with Enterprise S3 object storage.
+Explore ObjectScale
+Showing page 1 of 2
+1/2
+Data Engines
+Purpose built for all enterprise data
+Access, prepare, enrich and create data products for analytics and Al.
+Explore Dell Data Analytics Engine
+Data Engines
+Connect and Orchestrate Al Data Pipelines
+Support the full Al lifecycle building and deploying workflows for unstructured multi-model data.
+Explore Dell Orchestration Engine
+Storage Engine
+PowerScale
+Share data seamlessly with unified file/object storage.
+Explore PowerScale
+Storage Engine
+ObjectScale
+Scale globally with Enterprise S3 object storage.
+Explore ObjectScale
+Resources
+Previous Slide
+Next Slide
+Solution Overview
+NVIDIA DGX SuperPOD certified storage
+Lead GenAI advancements with PowerScale, the world's first Ethernet-certified storage for NVIDIA DGX SuperPOD.
+Read solution overview
+White Paper
+Al Innovation through Smart Data Insights
+How Dell and AMD help organizations harness Al and deep data insights for a stronger future.
+Read eBook
+Partnerships
+Smarter Al starts with better data
+Unlock the potential of Al with a robust data pipeline.
+Read eBook
+Top Reasons
+Why Dell AIDP
+Dell Al Data Platform: designed to enable tomorrow's Al workloads by being open, flexible, and secure data.
+Read Solution Overview
+Blog
+Revolutionizing Al Workflows
+Dell's Game-Changing Platforms with NVIDIA Integration Description: Discover how Dell and NVIDIA are transforming Al workflows with unified platforms, open innovation, and scalable solutions for data-driven success.
+Read Blog
+Brief
+Use Case: Biomedical Research Assistance
+Using an artificial intelligence approach to make biomedical research more accessible and scalable using the Dell Al Data Platform with NVIDIA.
+Read the use case brief
+Brief
+Use Case: Cataloging Media Assets
+Creating a large-scale 3D asset library with NVIDIA Omniverse and the Dell Al Data Platform with NVIDIA.
+Read the use case brief
+Brief
+Use Case: Predictive Maintenance
+Creating a powerful predictive maintenance solution with the Dell Al Data Platform with NVIDIA
+Read the use case brief
+Brief
+Use Case: Video Search and Summarization
+A modern vision and language model pipeline powers video search and summarization using the Dell Al Data Platform with NVIDIA.
+Read the use case brief
+Solution Overview
+NVIDIA DGX SuperPOD certified storage
+Lead GenAI advancements with PowerScale, the world's first Ethernet-certified storage for NVIDIA DGX SuperPOD.
+Read solution overview
+White Paper
+Al Innovation through Smart Data Insights
+How Dell and AMD help organizations harness Al and deep data insights for a stronger future.
+Read eBook
+Partnerships
+Smarter Al starts with better data
+Unlock the potential of Al with a robust data pipeline.
+Read eBook
+Top Reasons
+Why Dell AIDP
+Dell Al Data Platform: designed to enable tomorrow's Al workloads by being open, flexible, and secure data.
+Read Solution Overview
+Blog
+Revolutionizing Al Workflows
+Dell's Game-Changing Platforms with NVIDIA Integration Description: Discover how Dell and NVIDIA are transforming Al workflows with unified platforms, open innovation, and scalable solutions for data-driven success.
+Read Blog
+Brief
+Use Case: Biomedical Research Assistance
+Using an artificial intelligence approach to make biomedical research more accessible and scalable using the Dell Al Data Platform with NVIDIA.
+Read the use case brief
+Brief
+Use Case: Cataloging Media Assets
+Creating a large-scale 3D asset library with NVIDIA Omniverse and the Dell Al Data Platform with NVIDIA.
+Read the use case brief
+Brief
+Use Case: Predictive Maintenance
+Creating a powerful predictive maintenance solution with the Dell Al Data Platform with NVIDIA
+Read the use case brief
+Brief
+Use Case: Video Search and Summarization
+A modern vision and language model pipeline powers video search and summarization using the Dell Al Data Platform with NVIDIA.
+Read the use case brief
+Analyst
+Previous Slide
+Next Slide
+Research Report
+NaND Research Paper
+Addressing Enterprise Al Data challenges at scale with the Dell Al Data Platform.
+Read Report
+Research Report
+NaND Research Paper
+Addressing Enterprise Al Data challenges at scale with the Dell Al Data Platform.
+Read Report

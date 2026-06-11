@@ -1,0 +1,210 @@
+Servers - Rack, Tower & Edge Servers | Dell India
+How can we help you?
+Chat for Warranty Renewal
+Mon - Fri: 09:00 am to 6:00 pm IST
+Technical Support
+Contact Us
+Contact Us
+Accelerate with Intel® Xeon®
+Compare
+Servers
+Power your innovation engine with technology solutions that help you innovate, adapt, and grow.
+All Server Solutions
+Accelerate with Intel® Xeon®
+Compare
+TECHNOLOGY LEADERSHIP
+Acceleration-optimised PowerEdge servers were key to securing Dell Technologies’ position as a Leader in AI infrastructure solutions during the first quarter of 2024, according to The Forrester Wave™ report.
+COMPETITIVE ADVANTAGE
+Increase security, flexibility, and efficiency with Dell server management tools. Third-party testing shows organisations can save up to 110 minutes of admin time per 100 servers with automatic updates and experience up to 3.5x more security features compared to Supermicro.
+Read the independent report
+Based on a Principled Technologies report commissioned by Dell Technologies, "Increase security, sustainability, and efficiency with robust Dell management tools compared to the Supermicro management portfolio", April 2024. Comparing Dell iDRAC9 vs Supermicro IPMI. Extrapolated time to update firmware on 100 servers every subsequent time. Actual results may vary. See full report:
+https://www.delltechnologies.com/asset/en-in/products/cross-company/industry-market/principled-technologies-dell-management-portfolio-vs-supermicro-whitepaper.pdf
+CUSTOMER SUCCESSES
+“Together with the Dell Innovation Lab and supported by NVIDIA, we’re working on AI tools deployed directly on our on-prem PowerEdge servers which we find much easier, faster, cheaper, and better to deploy than in the cloud.” —
+Dr. Mozziyar Etemadi, Clinical Director of Advanced Technologies, Northwestern Medicine
+Read the story
+Previous Page
+Next Page
+TECHNOLOGY LEADERSHIP
+Acceleration-optimised PowerEdge servers were key to securing Dell Technologies’ position as a Leader in AI infrastructure solutions during the first quarter of 2024, according to The Forrester Wave™ report.
+COMPETITIVE ADVANTAGE
+Increase security, flexibility, and efficiency with Dell server management tools. Third-party testing shows organisations can save up to 110 minutes of admin time per 100 servers with automatic updates and experience up to 3.5x more security features compared to Supermicro.
+Read the independent report
+CUSTOMER SUCCESSES
+“Together with the Dell Innovation Lab and supported by NVIDIA, we’re working on AI tools deployed directly on our on-prem PowerEdge servers which we find much easier, faster, cheaper, and better to deploy than in the cloud.” —
+Dr. Mozziyar Etemadi, Clinical Director of Advanced Technologies, Northwestern Medicine
+Read the story
+Showing page 3 of 3
+3 of 3
+Based on a Principled Technologies report commissioned by Dell Technologies, "Increase security, sustainability, and efficiency with robust Dell management tools compared to the Supermicro management portfolio", April 2024. Comparing Dell iDRAC9 vs Supermicro IPMI. Extrapolated time to update firmware on 100 servers every subsequent time. Actual results may vary. See full report:
+https://www.delltechnologies.com/asset/en-in/products/cross-company/industry-market/principled-technologies-dell-management-portfolio-vs-supermicro-whitepaper.pdf
+Accelerate transformation anywhere with PowerEdge server solutions
+AI servers
+Purpose-built for Artificial Intelligence (AI), Generative AI (GenAI), and High Performance Computing (HPC) applications. These powerful platforms come equipped with state-of-the-art security systems, offer diverse GPU options, and are optimised for superior acceleration.
+Explore servers for AI
+Data Center servers
+Deliver the increased performance, enhanced energy efficiency, and evolving cyber resilience that is demanded by modern Data Centers. Support transforming business needs with reliable infrastructure that reduces costs and scales seamlessly.
+Explore Servers for the Data Center
+Edge servers
+High-performance edge servers built to handle data-intensive workloads. Deliver scalable, efficient, reliable, and intrinsically secure compute performance in any edge location — including constrained spaces and harsh environments.
+Explore servers for the edge
+Integrated Rack
+Transform your datacenter with Dell’s cutting-edge Integrated Rack Scalable Systems (IRSS). Designed for the most intensive AI workloads, our systems are custom-built to maximize space, enhance energy efficiency, and reduce costs, empowering your business to scale seamlessly.
+Explore integrated rack scalable systems
+Power and cooling
+Optimise high-density environments in the data center or at the edge with hybrid air and liquid cooling systems. Support continuous operations with solutions that enhance the scalability and efficiency of servers and integrated rack solutions.
+Explore power and cooling solutions
+Security
+Build a cyber-resilient architecture with servers featuring built-in security at every stage of their lifecycle, from design to retirement. Protect your data in any IT environment against evolving threats with advanced encryption, secure boot, and proactive defence.
+Explore server security solutions
+Systems management
+Manage PowerEdge servers across virtual, physical, local, and remote environments with intuitive tools that leverage task automation, predictive analytics, and proactive monitoring. These comprehensive tools simplify operations, enabling IT teams to focus on innovation.
+Explore system management solutions
+il_dds__icon--arrow-right
+Try our server management software
+Experience PowerEdge server management with self-paced virtual labs in free, real-time virtual environments.
+Browse hands-on labs
+Previous Page
+Next Page
+Move faster, work better, scale smarter.
+Dell Technologies World – happening at The Venetian in Las Vegas, May 18 – 21, 2026. Get ready for breaking announcements and innovations, visionary Keynotes, non-stop learning opportunities, epic entertainment and unlimited networking — all in one place.
+Register Now
+PowerEdge Integrated Rack Solutions
+Transform your Data Center with Dell’s cutting-edge Integrated Rack Scalable Systems (IRSS). Designed for the most intensive AI workloads, our systems are custom-built to empowering your business to scale seamlessly.
+Learn More
+Artificial intelligence solutions
+Unlock key insights from your data and elevate your productivity, customer experience, and innovation.
+Explore our solutions for AI
+Data that drives smarter IT decisions
+Discover, assess, and modernise your entire infrastructure with Dell Live Optics — from core to cloud to edge.
+Get Started
+Showing page 3 of 4
+3/4
+cp_dds__icon--pop-up-arrow-corner
+cp--chevron-right
+cp--chevron-left
+cp_dds2__icon--arrow-right
+Server resources
+Server resources
+Resources
+Server Customer Stories
+Customer Stories
+Server Related Offerings
+Related Services
+Resources
+Previous Slide
+Next Slide
+ANALYST REPORT
+Innovate Server Infrastructure
+Read the IDC report about innovating your server infrastructure and getting ahead of technical debt.
+Read Report
+ANALYST REPORT
+ProDeploy with PowerEdge
+Read the Principled Technologies Report to learn about faster and easier server installation with Dell ProDeploy Factory Configuration or ProDeploy for Infrastructure.
+Read Report
+BRIEF
+Maximize the value of PowerEdge with Dell Services
+Ensure your servers run securely and optimally with expert deployment, support, data, security, and education services.
+Read Report
+LIBRARY
+PowerEdge Webinars & Events
+Explore and register for on-demand events that deliver expertise and industry insights about the latest technology trends.
+Explore More
+Showing page 1 of 2
+1/2
+ANALYST REPORT
+Innovate Server Infrastructure
+Read the IDC report about innovating your server infrastructure and getting ahead of technical debt.
+Read Report
+ANALYST REPORT
+ProDeploy with PowerEdge
+Read the Principled Technologies Report to learn about faster and easier server installation with Dell ProDeploy Factory Configuration or ProDeploy for Infrastructure.
+Read Report
+BRIEF
+Maximize the value of PowerEdge with Dell Services
+Ensure your servers run securely and optimally with expert deployment, support, data, security, and education services.
+Read Report
+LIBRARY
+PowerEdge Webinars & Events
+Explore and register for on-demand events that deliver expertise and industry insights about the latest technology trends.
+Explore More
+Customer Stories
+Previous Slide
+Next Slide
+PHONEPE
+Empowering financial inclusion with sustainable technology
+Learn how PhonePe seeks to empower millions of people in India with simple, safe, cashless transactions to empower financial inclusion with sustainable technology.
+Read Customer Story
+TABOOLA
+Using AI to deliver relevant and precisely targeted content
+Taboola uses AI to deliver relevant, precisely targeted content to deliver four billion precisely targeted web pages every day.
+Read Customer Story
+ZERO FARMS
+Fuelling a revolution in agriculture
+ZERO Farms revolutionises agriculture with a new model for vertical farming based on AI on PowerEdge servers.
+Read Customer Story
+PHONEPE
+Empowering financial inclusion with sustainable technology
+Learn how PhonePe seeks to empower millions of people in India with simple, safe, cashless transactions to empower financial inclusion with sustainable technology.
+Read Customer Story
+TABOOLA
+Using AI to deliver relevant and precisely targeted content
+Taboola uses AI to deliver relevant, precisely targeted content to deliver four billion precisely targeted web pages every day.
+Read Customer Story
+ZERO FARMS
+Fuelling a revolution in agriculture
+ZERO Farms revolutionises agriculture with a new model for vertical farming based on AI on PowerEdge servers.
+Read Customer Story
+Related Services
+Previous Slide
+Next Slide
+AI Services
+Establish Your AI
+Drive tangible business value by quickly establishing your AI platform and aligning high-value AI use cases.
+Explore AI Services
+AI Services
+Deploy Your AI Infrastructure
+Simplify AI integration with custom-built infrastructure solutions that fuel productivity and innovation. Scale faster with ease.
+Explore AI Deployment
+SERVICES
+ProDeploy Infrastructure Suite
+Accelerate tech integration with tailored deployment for your server hardware and software. Start strong from day one.
+Explore ProDeploy
+Services
+ProSupport Infrastructure Suite
+Always on, proactive, intelligent support designed to keep your critical systems running smoothly and your business moving forward.
+Explore ProSupport
+AI Services
+Establish Your AI
+Drive tangible business value by quickly establishing your AI platform and aligning high-value AI use cases.
+Explore AI Services
+AI Services
+Deploy Your AI Infrastructure
+Simplify AI integration with custom-built infrastructure solutions that fuel productivity and innovation. Scale faster with ease.
+Explore AI Deployment
+SERVICES
+ProDeploy Infrastructure Suite
+Accelerate tech integration with tailored deployment for your server hardware and software. Start strong from day one.
+Explore ProDeploy
+Services
+ProSupport Infrastructure Suite
+Always on, proactive, intelligent support designed to keep your critical systems running smoothly and your business moving forward.
+Explore ProSupport
+One hub for all your IT needs
+Dell Premier customizes your organization's entire IT experience: explore comprehensive solutions, confidently buy at our best online price, streamline management and so much more.
+Learn More
+Dell APEX Infrastructure
+Subscribe to your preferred on-premises infrastructure and services for more agility and control.​
+Explore Dell APEX​
+Payment Solutions​
+Deploy the technology you need now while maximizing your IT budget.​
+Explore Dell Payment Solutions
+Compare
+Compare Products (
+)
+Add the products you would like to compare, and quickly determine which is best for your needs.
+Hide
+Add the products you would like to compare, and quickly determine which is best for your needs.
+Previous Page
+Next Page
+Compare Products

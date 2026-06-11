@@ -1,0 +1,13 @@
+{
+  "target_url": "https://www.dell.com/en-in/shop/scc/sc/artificial-intelligence",
+  "extracted_at": "2026-05-10T14:30:44.936044+00:00",
+  "driver_used": "patchright",
+  "crawl_depth": 1,
+  "was_blocked": false,
+  "detection_type": "NORMAL",
+  "detection_score": 0,
+  "elapsed_seconds": 210.05,
+  "html_size_bytes": 410151,
+  "word_count": 2443,
+  "error": null
+}

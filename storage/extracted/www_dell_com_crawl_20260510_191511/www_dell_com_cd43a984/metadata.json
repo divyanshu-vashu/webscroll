@@ -1,0 +1,13 @@
+{
+  "target_url": "https://www.dell.com/en-in/lp/dt/industry-life-sciences",
+  "extracted_at": "2026-05-11T03:52:24.753015+00:00",
+  "driver_used": "patchright",
+  "crawl_depth": 1,
+  "was_blocked": false,
+  "detection_type": "NORMAL",
+  "detection_score": 0,
+  "elapsed_seconds": 239.12,
+  "html_size_bytes": 1278656,
+  "word_count": 1209,
+  "error": null
+}

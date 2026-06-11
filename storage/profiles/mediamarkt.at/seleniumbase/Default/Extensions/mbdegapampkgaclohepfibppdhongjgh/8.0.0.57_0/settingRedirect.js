@@ -1,0 +1,1 @@
+chrome.runtime.getManifest().description.includes("Chrome")?chrome.tabs.getCurrent((function(e){chrome.tabs.update(e.id,{url:`chrome://extensions/?id=${chrome.runtime.id}`})})):chrome.tabs.getCurrent((function(e){chrome.tabs.update(e.id,{url:`edge://extensions/?id=${chrome.runtime.id}`})}));

@@ -1,0 +1,98 @@
+Kubernetes Containers - K8s & Containers Management | Dell India
+Register Now
+How can we help you?
+Chat with Sales
+Mon – Fri, 9:30AM - 12AM (Business)
+Request a Sales Callback
+Technical Support
+Order Support
+Contact Us
+Contact Us
+Kubernetes and Containers
+KUBERNETES AND CONTAINERS
+Modern applications for modern IT
+Visit the Community
+Watch Video
+Overview
+Products & Solutions
+Distribution Support
+Next Steps & FAQ
+Enterprise-ready infrastructure for your Kubernetes environments
+Accelerate application modernization with Dell's end-to-end solutions and tools for containers and Kubernetes
+Choose your Kubernetes
+Dell has solutions for all 6 top commercial Kubernetes distributions.
+Platform your way
+Tailor to your hosting approach based on your need for the right level of control and management.
+Enjoy financial flexibility
+Align payment to resource consumption for ultimate CapEx / OpEx flexibility.
+Kubernetes and Container Solutions
+Explore our end-to-end portfolio of application modernization solutions.
+Viewing
+of 3
+/
+3
+Dell Private Cloud
+Deploy, manage, and scale your private cloud ecosystems for Red Hat OpenShift.
+KEY BENEFITS:
+Open and modular infrastructure on-premises
+Bring your own Red Hat OpenShift subscriptions
+Explore Dell Private Cloud →
+Dell Container Storage Modules
+Simple, automated experience for enterprise storage and cloud native stateful apps.
+KEY BENEFITS:
+Improved productivity and scalable Kubernetes data storage operations
+Advanced capabilities for authorization, replication, resiliency, observability, and snapshots
+Explore Dell Container Storage Modules →
+Dell PowerProtect Data Manager
+Protect and secure your cloud native applications with enterprise-grade data protection for any size business.
+KEY BENEFITS:
+Meet continuity and compliance requirements
+Discovery, protection and management of your container and Kubernetes deployments
+Explore Dell PowerProtect Data Manager →
+Building smarter solutions in partnership with Red Hat
+Dell partners closely with Red Hat to build integrated solutions that deliver the highest level of value to our joint customers running Red Hat OpenShift on Dell infrastructure. This includes products such as our Dell Private Cloud, as well as the enablement of key technology for your IT environment such as KubeVirt and our Dell Container Storage Modules. Discover how this partnership and Dell's OpenShift container platform solutions give you a consistent application platform for the management of cloud-native apps.
+Learn About Dell's Red Hat OpenShift Solutions
+Additional Kubernetes distribution support
+Viewing
+of 5
+/
+5
+INFOHUB WHITEPAPERS
+VMware Tanzu with Dell
+Learn More →
+INFOHUB RESOURCES
+SUSE Rancher Resources
+Explore Resources →
+BLOG POST
+Microsoft Azure Hybrid Ecosystem
+Read Blog Post →
+SOLUTION BRIEF
+Canonical and Kubernetes
+Read Solution Brief →
+WHITEPAPER
+Amazon EKS Anywhere on Dell Powerflex
+Read Solution Brief →
+Next steps
+Explore Consulting Services for cloud native applications
+Innovate and respond to an ever-changing marketplace and technology landscape.
+Access Services Information →
+Join our community to discuss Kubernetes best practices
+Open up discussion with Dell's experts and other customers exploring Kubernetes.
+Join Our Community Today →
+Frequently asked questions
+Discover how Dell delivers value for your containerized workloads.
+What Kubernetes distributions does Dell support?
+Dell supports all of the six main commercial Kubernetes distributions, including Red Hat OpenShift, VMware Tanzu, SUSE Rancher, Microsoft AKS, Amazon EKS, and Google Anthos. Additionally, Dell supports many open source Kubernetes distribution options such as vanilla Kubernetes and Canonical.
+Can Dell's customers use open source software for the monitoring, management, and operations of their preferred Kubernetes distribution?
+Yes, when running Kubernetes distributions on Dell infrastructure, you can leverage a variety of open source technologies and software. For example, through our Dell Container Storage Modules, customers can integrate Prometheus and Grafana to meet telemetry and observability requirements.
+What storage options are supported for customers looking to run Kubernetes distributions on Dell Infrastructure?
+When running Kubernetes distributions on Dell infrastructure, you can select from a variety of supported storage options, such as Dell PowerStore, Dell PowerScale, Dell PowerFlex, Dell PowerMax, and Dell Unity XT.
+Compare
+Compare Products (
+)
+Add the products you would like to compare, and quickly determine which is best for your needs.
+Hide
+Add the products you would like to compare, and quickly determine which is best for your needs.
+Previous Page
+Next Page
+Compare Products

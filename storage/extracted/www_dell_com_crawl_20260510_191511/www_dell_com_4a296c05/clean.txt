@@ -1,0 +1,95 @@
+Virtual Desktop Infrastructure | Dell India
+How can we help you?
+Chat with Sales
+Mon – Fri, 9:30AM - 12AM (Business)
+Request a Sales Callback
+Technical Support
+Order Support
+Contact Us
+Contact Us
+Intel® Core™ Ultra Processors
+Learn More about Intel
+Virtual Desktop Infrastructure
+VIRTUAL DESKTOP INFRASTRUCTURE (VDI) - WYSE CLIENTS
+Empower teams to be productive anywhere
+Watch Video
+Overview
+Validated Designs for VDI
+Customer Stories
+Resources
+Deliver real workforce transformation with next-generation virtual desktop infrastructure from Dell Technologies optimized for operational excellence, security, and employee experience.
+Work and learn from anywhere
+VDI enables you to run your applications or full desktop – anywhere, on any device – to enhance collaboration and productivity.
+Secure your environment
+With hosted desktop infrastructure, your data remains protected behind the corporate firewall, helping maintain security without sacrificing performance.
+Centralize and simplify IT management
+With flexible engineering-validated designs, you can spend less resources procuring, deploying, testing and supporting your ever-changing VDI environment.
+Validated Designs for VDI
+Deliver an industry leading end-user experience while simplifying IT operations - without compromising on performance, productivity or security - with validated VDI solutions to take your IT and workforce transformation to the next level.
+VDI Platforms
+Platform
+Description
+Resources
+Microsoft Azure Virtual Desktops (AVD)
+Deploy Azure Virtual Desktop virtual machines to your on-premises Azure Stack HCI infrastructure and manage the cluster, physical nodes, and virtual machines (VMs) from the Microsoft Azure portal
+Design Guide
+Citrix Virtual Apps and Desktops
+Deploy end-to-end VDI environments with Citrix Virtual Applications and Desktops on Dell hyperconverged infrastructure (HCI)
+Design Guide (Intel)
+Design Guide (AMD)
+GPU-accelerated
+Accelerate deployment of multimedia-rich virtual desktop infrastructure (VDI)
+Design Guide
+VMware Horizon
+Deploy end-to-end VDI environments with VMware Horizon on Dell hyperconverged infrastructure (HCI)
+Design Guide (AMD)
+Three Tier Architecture Citrix Virtual Apps and Desktops
+Deploy end-to-end VDI environments with Citrix Virtual Applications and Desktops on Dell three tier architecture
+Three Tier Architecture Design Guide Citrix Virtual Apps and Desktops for AMD
+Three Tier Architecture VMware Horizon
+Deploy end-to-end VDI environments with VMware Horizon on Dell three tier architecture
+Three Tier Architecture Design Guide VMware Horizon for AMD
+Healthcare Environment
+Deploy VDI and AI on Dell 15G vSAN Ready Nodes in a healthcare environment
+VDI and AI on Dell 15G vSAN Ready Nodes in a Healthcare Environment
+Infrastructure
+Platform
+Description
+Resources
+Dell PowerEdge Servers
+Scale your VDI users performing compute‑heavy task with the Dell PowerEdge Infrastructure
+Design Guide (VMware)
+Design Guide (Citrix)
+Industry
+Plataform
+Description
+Resources
+Geographic Information Systems
+Deploy Esri’s ArcGIS Pro software on Dell Technologies virtual desktop infrastructure (VDI) with NVIDIA virtual GPUs
+Design Guide
+Higher Education
+Provide secure access to educational resources with performance that powers productivity
+Design Guide
+Dell Technology Services
+Consulting, education, deployment, and support services are available when and where you need them from Dell Technologies and partners around the world.
+Learn More
+CUSTOMER STORY: CITY OF AMARILLO
+IT modernization sets up a data-driven future
+The city of Amarillo, Texas, accelerated IT modernization with hyperconverged infrastructure (HCI) and virtual desktop infrastructure (VDI).
+Read Customer Story
+Resources
+Technical Documents
+VDI Information Hub for Validated Designs
+Review a complete list of technical documents to understand how to use Dell Technologies infrastructure to implement your VDI architectures.
+View Technical Documents →
+Intel® Core™ Ultra Processors
+Learn More about Intel
+Compare
+Compare Products (
+)
+Add the products you would like to compare, and quickly determine which is best for your needs.
+Hide
+Add the products you would like to compare, and quickly determine which is best for your needs.
+Previous Page
+Next Page
+Compare Products

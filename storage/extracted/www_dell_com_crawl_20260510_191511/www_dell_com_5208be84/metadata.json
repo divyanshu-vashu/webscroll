@@ -1,0 +1,13 @@
+{
+  "target_url": "https://www.dell.com/en-in/lp/dt/solutions",
+  "extracted_at": "2026-05-10T15:02:45.758998+00:00",
+  "driver_used": "patchright",
+  "crawl_depth": 1,
+  "was_blocked": false,
+  "detection_type": "NORMAL",
+  "detection_score": 0,
+  "elapsed_seconds": 208.84,
+  "html_size_bytes": 964698,
+  "word_count": 820,
+  "error": null
+}

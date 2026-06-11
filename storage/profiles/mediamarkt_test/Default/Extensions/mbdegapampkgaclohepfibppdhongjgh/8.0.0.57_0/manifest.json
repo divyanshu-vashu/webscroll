@@ -1,0 +1,23 @@
+{
+   "background": {
+      "service_worker": "service_worker.js"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "content-script.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "description": "FortiClient WebFilter for Google Chrome",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "logo128.png"
+   },
+   "incognito": "split",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAw42U8rdTdh0B50Xuf0EInGSFAv8cZqjebT4PHvUW25ro4tJhj2o6+hLXFoqAYWJ3Cdk6qTxIXdLmT29YjbRq8xdafEnI1c5TEmM7pcGqx9c6Uz9DFn0pY75Tl4fYUzsQ0FYH8QeG2Hbao8hHBfC6HXS+ZDDIiJrdmOgtGeDXfWq0GL7hZDaxldB5Uvq1lA+GDCfXfGI3nqniJNFylTGlTkpZiDZayQWNXvmgCJg+kfDhKj63ZSXiooeV3lKCpF+sP4HRtdBmx/87lY35/v16vnJBe/FHbSRKBp6pai7lrsKRQRjWGsiPnfeVnyxSeJerZVc8u+ct4i6w+8t2l4Y7QQIDAQAB",
+   "manifest_version": 3,
+   "name": "FortiClient WebFilter",
+   "permissions": [ "tabs", "offscreen", "alarms", "webNavigation", "webRequest", "webRequestBlocking", "downloads", "privacy", "declarativeNetRequest" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "8.0.0.57"
+}

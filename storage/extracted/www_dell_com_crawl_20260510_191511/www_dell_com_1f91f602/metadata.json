@@ -1,0 +1,13 @@
+{
+  "target_url": "https://www.dell.com/en-in/shop/scc/sc/servers",
+  "extracted_at": "2026-05-10T14:34:13.260123+00:00",
+  "driver_used": "patchright",
+  "crawl_depth": 1,
+  "was_blocked": false,
+  "detection_type": "NORMAL",
+  "detection_score": 0,
+  "elapsed_seconds": 206.38,
+  "html_size_bytes": 515276,
+  "word_count": 1629,
+  "error": null
+}

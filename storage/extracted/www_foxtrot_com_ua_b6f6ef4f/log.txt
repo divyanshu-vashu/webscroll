@@ -1,0 +1,119 @@
+.venv) PS C:\Users\Divyanshu\code\tn\webscroll> python main.py --site https://www.foxtrot.com.ua/ru/shop/piylesosiy-aeg-as62cb25dh-blackgrey.html
+
+🚀 WebScroll starting
+   URL       : https://www.foxtrot.com.ua/ru/shop/piylesosiy-aeg-as62cb25dh-blackgrey.html
+   Mode      : Single Page
+   Output    : storage\extracted
+
+01:58:40 [INFO] engines.strategy_engine.orchestrator — [Orchestrator] Fetching (depth=0): https://www.foxtrot.com.ua/ru/shop/piylesosiy-aeg-as62cb25dh-blackgrey.html
+01:58:40 [INFO] drivers.identity.browserforge_manager — Generated consistent identity profile: UA=Mozilla/5.0 (Macintosh; Intel Mac OS X 1... Locale=en-US
+01:58:40 [INFO] drivers.browser_clients.playwright_driver — Launching Playwright (headless=True) to fetch https://www.foxtrot.com.ua/ru/shop/piylesosiy-aeg-as62cb25dh-blackgrey.html...
+01:58:40 [INFO] drivers.browser_clients.patchright_driver — Launching Patchright (headless=False) to fetch https://www.foxtrot.com.ua/ru/shop/piylesosiy-aeg-as62cb25dh-blackgrey.html...
+01:58:46 [INFO] drivers.browser_clients.patchright_driver — Navigating to URL...
+01:58:52 [INFO] drivers.lib.network_monitor — Network stabilized (quiet for 5.0s).
+01:58:56 [INFO] drivers.browser_clients.playwright_driver — Navigating to URL...
+01:59:03 [INFO] engines.bot.bot_detector — [BotDetector] SUSPICIOUS (score=25, no ML) — url=https://www.foxtrot.com.ua/ru/shop/piylesosiy-aeg-as62cb25dh-blackgrey.html
+01:59:03 [INFO] engines.strategy_engine.orchestrator — [Orchestrator] patchright → size=1708, blocked=False, type=SUSPICIOUS, score=25, elapsed=23.24s
+01:59:04 [INFO] drivers.lib.network_monitor — Network stabilized (quiet for 5.0s).
+01:59:04 [INFO] engines.bot.bot_detector — [BotDetector] SUSPICIOUS (score=25, no ML) — url=https://www.foxtrot.com.ua/ru/shop/piylesosiy-aeg-as62cb25dh-blackgrey.html
+01:59:04 [INFO] engines.strategy_engine.orchestrator — [Orchestrator] playwright → size=1708, blocked=False, type=SUSPICIOUS, score=25, elapsed=24.28s
+01:59:04 [INFO] engines.strategy_engine.orchestrator — [Orchestrator] Sizes agree: [1708, 1708]   
+01:59:04 [INFO] engines.strategy_engine.orchestrator — [Orchestrator] ✅ Primary succeeded — driver=patchright, size=1708, elapsed=24.29s
+  [   1] depth=0 |     1708 bytes | patchright   | https://www.foxtrot.com.ua/ru/shop/piylesosiy-aeg-as62cb25dh-blackgrey
+
+============================================================
+✅ Done — 1/1 pages successfully extracted
+   Output: C:\Users\Divyanshu\code\tn\webscroll\storage\extracted
+   Avg page size: 1,708 bytes
+============================================================
+
+(.venv) PS C:\Users\Divyanshu\code\tn\webscroll> python main.py --site https://www.mediamarkt.at/de/product/_gorenje-rb-492-pw-kuhlschrank-e-845-mm-hoch-weiss-142380563.html
+
+🚀 WebScroll starting
+   URL       : https://www.mediamarkt.at/de/product/_gorenje-rb-492-pw-kuhlschrank-e-845-mm-hoch-weiss-142380563.html
+   Mode      : Single Page
+   Output    : storage\extracted
+
+(.venv) PS C:\Users\Divyanshu\code\tn\webscroll> python main.py --site https://www.mediamarkt.at/de/product/_gorenje-rb-492-pw-kuhlschrank-e-845-mm-hoch-weiss-142380563.html
+
+🚀 WebScroll starting
+   URL       : https://www.mediamarkt.at/de/product/_gorenje-rb-492-pw-kuhlschrank-e-845-mm-hoch-weiss-142380563.html
+   Mode      : Single Page
+   Output    : storage\extracted
+
+02:01:04 [INFO] engines.strategy_engine.orchestrator — [Orchestrator] Fetching (depth=0): https://www.mediamarkt.at/de/product/_gorenje-rb-492-pw-kuhlschrank-e-845-mm-hoch-weiss-142380563.html    
+02:01:04 [INFO] drivers.identity.browserforge_manager — Generated consistent identity profile: UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64... Locale=en-US
+02:01:04 [INFO] drivers.browser_clients.playwright_driver — Launching Playwright (headless=True) to fetch https://www.mediamarkt.at/de/product/_gorenje-rb-492-pw-kuhlschrank-e-845-mm-hoch-weiss-142380563.html...
+02:01:04 [INFO] drivers.browser_clients.patchright_driver — Launching Patchright (headless=False) to fetch https://www.mediamarkt.at/de/product/_gorenje-rb-492-pw-kuhlschrank-e-845-mm-hoch-weiss-142380563.html...
+02:01:07 [INFO] drivers.browser_clients.playwright_driver — Navigating to URL...
+02:01:08 [INFO] drivers.browser_clients.patchright_driver — Navigating to URL...
+02:01:19 [INFO] drivers.lib.network_monitor — Network stabilized (quiet for 5.0s).
+02:01:20 [WARNING] engines.bot.bot_detector — [BotDetector] RULE BLOCK — type=CLOUDFLARE, score=155, url=https://www.mediamarkt.at/de/product/_gorenje-rb-492-pw-kuhlschrank-e-845-mm-hoch-weiss-142380563.html, signals=['CF challenge JS token', 'CF challenge-platform script', 'CF challenge JS variable', 'Cloudflare brand mention']
+02:01:20 [INFO] engines.strategy_engine.orchestrator — [Orchestrator] patchright → size=34054, blocked=True, type=CLOUDFLARE, score=155, elapsed=15.86s
+02:04:30 [WARNING] drivers.lib.network_monitor — Hard timeout of 200.0s reached while waiting for network.
+02:04:31 [WARNING] engines.bot.bot_detector — [BotDetector] RULE BLOCK — type=CLOUDFLARE, score=155, url=https://www.mediamarkt.at/de/product/_gorenje-rb-492-pw-kuhlschrank-e-845-mm-hoch-weiss-142380563.html, signals=['CF challenge JS token', 'CF challenge-platform script', 'CF challenge JS variable', 'Cloudflare brand mention']
+02:04:31 [INFO] engines.strategy_engine.orchestrator — [Orchestrator] playwright → size=34182, blocked=True, type=CLOUDFLARE, score=155, elapsed=206.48s
+02:04:31 [INFO] engines.strategy_engine.orchestrator — [Orchestrator] Sizes agree: [34054, 34182] 
+02:04:31 [WARNING] engines.strategy_engine.orchestrator — [Orchestrator] ⚠️ All primary methods bllocked for https://www.mediamarkt.at/de/product/_gorenje-rb-492-pw-kuhlschrank-e-845-mm-hoch-weiss-142380563.html. Entering permutation fallback...
+02:04:31 [INFO] drivers.identity.browserforge_manager — Generated consistent identity profile: UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64... Locale=en-US
+02:04:31 [INFO] drivers.identity.browserforge_manager — Generated consistent identity profile: UA=Mozilla/5.0 (Macintosh; Intel Mac OS X 1... Locale=en-GB
+02:04:31 [INFO] drivers.identity.browserforge_manager — Generated consistent identity profile: UA=Mozilla/5.0 (Macintosh; Intel Mac OS X 1... Locale=en-IN
+02:04:31 [INFO] engines.strategy_engine.orchestrator — [Orchestrator] Permutation fallback: 6 combinations (2 browsers × 3 profiles)
+02:04:31 [INFO] engines.strategy_engine.orchestrator — [Orchestrator] Permutation 1/6: PatchrightDriver + Locale: en-US
+02:04:31 [INFO] drivers.browser_clients.patchright_driver — Launching Patchright (headless=True) to fetch https://www.mediamarkt.at/de/product/_gorenje-rb-492-pw-kuhlschrank-e-845-mm-hoch-weiss-142380563.html...
+02:04:32 [INFO] drivers.browser_clients.patchright_driver — Navigating to URL...
+02:04:40 [INFO] drivers.lib.network_monitor — Network stabilized (quiet for 5.0s).
+02:04:40 [WARNING] engines.bot.bot_detector — [BotDetector] RULE BLOCK — type=CLOUDFLARE, score=155, url=https://www.mediamarkt.at/de/product/_gorenje-rb-492-pw-kuhlschrank-e-845-mm-hoch-weiss-142380563.html, signals=['CF challenge JS token', 'CF challenge-platform script', 'CF challenge JS variable', 'Cloudflare brand mention']
+02:04:40 [WARNING] engines.strategy_engine.orchestrator — [Orchestrator] ❌ PatchrightDriver+en-US still blocked — type=CLOUDFLARE, score=155
+02:04:42 [INFO] engines.strategy_engine.orchestrator — [Orchestrator] Permutation 2/6: PatchrightDriver + Locale: en-GB
+02:04:42 [INFO] drivers.browser_clients.patchright_driver — Launching Patchright (headless=False) to fetch https://www.mediamarkt.at/de/product/_gorenje-rb-492-pw-kuhlschrank-e-845-mm-hoch-weiss-142380563.html...
+02:04:44 [INFO] drivers.browser_clients.patchright_driver — Navigating to URL...
+02:04:52 [INFO] drivers.lib.network_monitor — Network stabilized (quiet for 5.0s).
+02:05:02 [WARNING] engines.bot.bot_detector — [BotDetector] RULE BLOCK — type=CLOUDFLARE, score=155, url=https://www.mediamarkt.at/de/product/_gorenje-rb-492-pw-kuhlschrank-e-845-mm-hoch-weiss-142380563.html, signals=['CF challenge JS token', 'CF challenge-platform script', 'CF challenge JS variable', 'Cloudflare brand mention']
+02:05:02 [WARNING] engines.strategy_engine.orchestrator — [Orchestrator] ❌ PatchrightDriver+en-GB still blocked — type=CLOUDFLARE, score=155
+02:05:04 [INFO] engines.strategy_engine.orchestrator — [Orchestrator] Permutation 3/6: PatchrightDriver + Locale: en-IN
+02:05:04 [INFO] drivers.browser_clients.patchright_driver — Launching Patchright (headless=False) to fetch https://www.mediamarkt.at/de/product/_gorenje-rb-492-pw-kuhlschrank-e-845-mm-hoch-weiss-142380563.html...
+02:05:14 [INFO] drivers.browser_clients.patchright_driver — Navigating to URL...
+02:05:22 [INFO] drivers.lib.network_monitor — Network stabilized (quiet for 5.0s).
+02:05:22 [WARNING] engines.bot.bot_detector — [BotDetector] RULE BLOCK — type=CLOUDFLARE, score=155, url=https://www.mediamarkt.at/de/product/_gorenje-rb-492-pw-kuhlschrank-e-845-mm-hoch-weiss-142380563.html, signals=['CF challenge JS token', 'CF challenge-platform script', 'CF challenge JS variable', 'Cloudflare brand mention']
+02:05:22 [WARNING] engines.strategy_engine.orchestrator — [Orchestrator] ❌ PatchrightDriver+en-IN still blocked — type=CLOUDFLARE, score=155
+02:05:24 [INFO] engines.strategy_engine.orchestrator — [Orchestrator] Permutation 4/6: PlaywrightDriver + Locale: en-US
+02:05:24 [INFO] drivers.browser_clients.playwright_driver — Launching Playwright (headless=True) to fetch https://www.mediamarkt.at/de/product/_gorenje-rb-492-pw-kuhlschrank-e-845-mm-hoch-weiss-142380563.html...
+02:05:26 [INFO] drivers.browser_clients.playwright_driver — Navigating to URL...
+02:08:47 [WARNING] drivers.lib.network_monitor — Hard timeout of 200.0s reached while waiting for network.
+02:08:47 [WARNING] engines.bot.bot_detector — [BotDetector] RULE BLOCK — type=CLOUDFLARE, score=155, url=https://www.mediamarkt.at/de/product/_gorenje-rb-492-pw-kuhlschrank-e-845-mm-hoch-weiss-142380563.html, signals=['CF challenge JS token', 'CF challenge-platform script', 'CF challenge JS variable', 'Cloudflare brand mention']
+02:08:47 [WARNING] engines.strategy_engine.orchestrator — [Orchestrator] ❌ PlaywrightDriver+en-US still blocked — type=CLOUDFLARE, score=155
+02:08:49 [INFO] engines.strategy_engine.orchestrator — [Orchestrator] Permutation 5/6: PlaywrightDriver + Locale: en-GB
+02:08:49 [INFO] drivers.browser_clients.playwright_driver — Launching Playwright (headless=False) to fetch https://www.mediamarkt.at/de/product/_gorenje-rb-492-pw-kuhlschrank-e-845-mm-hoch-weiss-142380563.html...
+02:09:03 [INFO] drivers.browser_clients.playwright_driver — Navigating to URL...
+02:12:25 [WARNING] drivers.lib.network_monitor — Hard timeout of 200.0s reached while waiting for network.
+02:12:25 [WARNING] engines.bot.bot_detector — [BotDetector] RULE BLOCK — type=CLOUDFLARE, score=155, url=https://www.mediamarkt.at/de/product/_gorenje-rb-492-pw-kuhlschrank-e-845-mm-hoch-weiss-142380563.html, signals=['CF challenge JS token', 'CF challenge-platform script', 'CF challenge JS variable', 'Cloudflare brand mention']
+02:12:25 [WARNING] engines.strategy_engine.orchestrator — [Orchestrator] ❌ PlaywrightDriver+en-GB still blocked — type=CLOUDFLARE, score=155
+02:12:27 [INFO] engines.strategy_engine.orchestrator — [Orchestrator] Permutation 6/6: PlaywrightDriver + Locale: en-IN
+02:12:27 [INFO] drivers.browser_clients.playwright_driver — Launching Playwright (headless=False) to fetch https://www.mediamarkt.at/de/product/_gorenje-rb-492-pw-kuhlschrank-e-845-mm-hoch-weiss-142380563.html...
+02:12:29 [INFO] drivers.browser_clients.playwright_driver — Navigating to URL...
+02:15:51 [WARNING] drivers.lib.network_monitor — Hard timeout of 200.0s reached while waiting for network.
+02:15:51 [WARNING] engines.bot.bot_detector — [BotDetector] RULE BLOCK — type=CLOUDFLARE, score=155, url=https://www.mediamarkt.at/de/product/_gorenje-rb-492-pw-kuhlschrank-e-845-mm-hoch-weiss-142380563.html, signals=['CF challenge JS token', 'CF challenge-platform script', 'CF challenge JS variable', 'Cloudflare brand mention']
+02:15:51 [WARNING] engines.strategy_engine.orchestrator — [Orchestrator] ❌ PlaywrightDriver+en-IN still blocked — type=CLOUDFLARE, score=155
+02:15:53 [ERROR] engines.strategy_engine.orchestrator — [Orchestrator] 🚫 All 6 permutations exhausted for https://www.mediamarkt.at/de/product/_gorenje-rb-492-pw-kuhlschrank-e-845-mm-hoch-weiss-142380563.html.
+www.mediamarkt.at
+Performing security verification
+This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.
+
+Incompatible browser extension or network configuration
+Your browser extensions or network settings have blocked the security verification process required by www.mediamarkt.at. To resolve this, try the following steps:
+
+Temporarily disable browser extensions:
+
+Go to your browser settings.
+Locate your browser extensions and temporarily disable them.
+Once browser extensions are disabled, refresh this page.
+Check your network settings:
+
+Verify if your internet or firewall settings have blocked your device from reaching “challenges.cloudflare.com”. You may need to consult your operating system's help documentation or your network administrator for guidance on adjusting firewall settings.
+If you do not have permission to adjust network settings, try connecting to a different network.
+If these steps do not resolve the issue, refer to Cloudflare's troubleshooting documentation for more help. For detailed guidance on how to disable your browser extensions or check your network settings, refer to your browser or device’s documentation.
+
+Ray ID: 9fc4f460291d5b96
+Performance and Security by Cloudflare
+Privacy

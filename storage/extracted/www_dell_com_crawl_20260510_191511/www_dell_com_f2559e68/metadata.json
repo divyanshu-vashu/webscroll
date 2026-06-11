@@ -1,0 +1,13 @@
+{
+  "target_url": "https://www.dell.com/en-in/lp/dt/industry-manufacturing",
+  "extracted_at": "2026-05-11T03:55:55.435896+00:00",
+  "driver_used": "playwright",
+  "crawl_depth": 1,
+  "was_blocked": false,
+  "detection_type": "NORMAL",
+  "detection_score": 0,
+  "elapsed_seconds": 208.76,
+  "html_size_bytes": 1320549,
+  "word_count": 1274,
+  "error": null
+}

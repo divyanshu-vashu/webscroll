@@ -1,0 +1,299 @@
+Artificial Intelligence Solutions | Dell India
+How can we help you?
+Chat for Warranty Renewal
+Mon - Fri: 09:00 am to 6:00 pm IST
+Technical Support
+Contact Us
+Contact Us
+Dell AI Solutions
+Unlock insights and drive efficiency, creativity, and innovation through predictive, generative, and agentic AI.
+Explore AI Portfolio
+Learn About Agentic AI
+Stop Motion
+Play Motion
+Invest in AI. Achieve Real Results.
+Knowledge
+Assistant
+Code
+Assistant
+Computer
+Vision
+Agentic AI
+Platform
+Data
+for AI
+Knowledge Assistant
+Transform your data into trusted, actionable insights with knowledge assistants that deliver faster resolution, increased productivity, and streamlined workflows.
+Explore Knowledge Assistant
+Code Assistant
+Increase developer productivity and on-premises software development. AI code generation can automate repetitive coding tasks so you can focus on complex problems.
+Explore Code Assistant
+Computer Vision
+Empower smarter spaces with vision-driven insights. Transform video, image and sensor data into real-world outcomes across industries, from manufacturing quality control and retail loss prevention to patient monitoring, customer sentiment analysis, traffic flow and public safety.
+Explore Computer Vision
+Agentic AI Platform
+A common on-premises agentic AI platform to design, run, and grow your digital workforce.
+Explore Agentic AI Platform
+Data for AI
+Dell’s AI Data Platform provides a modular hybrid‑cloud platform that unifies data access, enriches pipelines, ensures governance, and securely scales AI workloads for reliable, high‑performance enterprise deployment.
+Explore Data for AI
+AI solutions, products & services
+Dell AI Factory
+Accelerate your AI innovation with the Dell AI Factory, our approach to embracing and implementing AI to ensure successful and consistent deployment at any scale and location.
+Drive business value by controlling costs
+, saving up to 63% on fine-tuning and inferencing compared to public cloud alternatives, while enhancing productivity and reducing business risks, achieving an ROI of up to 1,225% over 4 years.
+Watch Dell AI Factory Video
+Learn about Dell AI Factory with NVIDIA
+Learn about Dell AI Platform with Intel
+Learn about Dell AI Platform with AMD
+Based on Enterprise Strategy Group paper commissioned by Dell, “Analyzing the Economic Benefits of the Dell AI Factory with NVIDIA,” comparing the ROI of on-premises Dell and NVIDIA solution, August 2025. Estimated costs were modeled utilizing Llama 3 70B LLM for inferencing and model fine-tuning workloads by organizations over a 4-year period. Server models used were XE9680s with 8 x H100 GPUs. Actual results may vary.
+Infrastructure for AI
+Infrastructure is the first layer of the AI factory, serving as its foundation. Dell offers the
+worlds broadest AI infrastructure portfolio
+that spans from cloud to client devices, from a single vendor, allowing you to right-size your AI investment, giving you the flexibility to deploy AI anywhere.
+Based on Prowess Consulting's paper commissioned by Dell, "Which Vendor Offers the Broadest AI Portfolio for Infrastructure and Services" October 2025
+Servers for AI
+PCs and PC software for AI
+Storage for AI
+Networking for AI
+Data for AI
+Cyber Resilience for AI
+Servers for AI
+Servers for AI
+Fast-track your GenAI goals using PowerEdge AI servers, helping turn ideas into action faster.
+Fast-track your GenAI goals using PowerEdge AI servers, helping turn ideas into action faster.
+Explore servers for AI
+PCs and PC software for AI
+PCs and PC software for AI
+Create, plan, and work like never before with AI PCs and NextGen AI PCs. Experience the power of AI on Precision workstations—from prototyping to GenAI workload deployment.
+Create, plan, and work like never before with AI PCs and NextGen AI PCs. Experience the power of AI on Precision workstations—from prototyping to GenAI workload deployment.
+Explore AI PCs
+Explore AI software for PCs
+Storage for AI
+Storage for AI
+Maximise data protection and scalability for unstructured data with our flexible storage solution, purpose-built to handle large data volumes.
+Maximise data protection and scalability for unstructured data with our flexible storage solution, purpose-built to handle large data volumes.
+Explore storage for AI
+Networking for AI
+Networking for AI
+Build large-scale Ethernet fabrics to meet the performance needs of GenAI workloads.
+Build large-scale Ethernet fabrics to meet the performance needs of GenAI workloads.
+Explore networking for AI
+Data for AI
+Data for AI
+Access your data across edge, core, and multicloud to power analytics, AI, and GenAI workloads for faster model tuning and business results.
+Access your data across edge, core, and multicloud to power analytics, AI, and GenAI workloads for faster model tuning and business results.
+Explore data for AI
+Cyber Resilience for AI
+Cyber Resilience for AI
+Dell Cyber Resilience secures your AI and applications against data loss, corruption, and cyber threats. With Dell PowerProtect get modern, simple, and resilient protection for your AI workloads.
+Dell Cyber Resilience secures your AI and applications against data loss, corruption, and cyber threats. With Dell PowerProtect get modern, simple, and resilient protection for your AI workloads.
+Explore Cyber Resilience for AI
+Previous Page
+Next Page
+Servers for AI
+Fast-track your GenAI goals using PowerEdge AI servers, helping turn ideas into action faster.
+Explore servers for AI
+PCs and PC software for AI
+Create, plan, and work like never before with AI PCs and NextGen AI PCs. Experience the power of AI on Precision workstations—from prototyping to GenAI workload deployment.
+Explore AI PCs
+Explore AI software for PCs
+Storage for AI
+Maximise data protection and scalability for unstructured data with our flexible storage solution, purpose-built to handle large data volumes.
+Explore storage for AI
+Networking for AI
+Build large-scale Ethernet fabrics to meet the performance needs of GenAI workloads.
+Explore networking for AI
+Data for AI
+Access your data across edge, core, and multicloud to power analytics, AI, and GenAI workloads for faster model tuning and business results.
+Explore data for AI
+Cyber Resilience for AI
+Dell Cyber Resilience secures your AI and applications against data loss, corruption, and cyber threats. With Dell PowerProtect get modern, simple, and resilient protection for your AI workloads.
+Explore Cyber Resilience for AI
+AI open ecosystem
+This is the second layer of the AI Factory, offering a comprehensive partner ecosystem stack ranging from colocation and hosting providers to silicon vendors that AI models are built on. Our vision includes a broad global systems integrator community to seamlessly bring AI to your data, giving you the flexibility to build in the operating environment that suits your business needs.
+Ecosystem
+AI Accelerator
+Data
+Models
+Deploy
+Ecosystem
+Creating an ecosystem across AI workflows
+Empower your AI journey with an ecosystem that gives you full control over your data while fostering community collaboration
+AI Accelerator
+Powering AI performance
+Boost your applications securely with accelerated PowerEdge servers and graphics processing units (GPUs) to speed up visualisation and gain
+insights faster.
+Deliver simplified, high-performance AI-ready solutions with extensive AI expertise.
+Explore GPU-accelerated AI
+Explore the Dell AI Factory with NVIDIA
+Leverage AMD Instinct™ accelerators for training, inference and customisation.
+Learn more about AMD
+Explore more accelerators
+Data
+Harnessing AI anywhere
+Unlock your data across edge, core, and multicloud environments to drive your analytics, AI, and GenAI workloads.
+Optimise a reference architecture for cloud-native AI workflows.
+Utilise a modern data architecture designed for cloud-native, hybrid, end-to-end analytics, and machine learning (ML).
+Explore data for AI
+Models
+Simplifying model training and customisation
+Utilise refined frameworks and libraries to train, customise, and fine-tune AI models.
+Quickly and easily build and manage custom on-PC AI applications with Dell Pro AI Studio – providing data privacy while saving time and costs. Models available in Dell Enterprise Hub on Hugging Face.
+Learn more about Dell Pro AI Studio
+Deploy
+Improving AI deployments
+Monitor and manage models across multicloud environments and use automation to deploy AI workloads into production faster.
+Automate the deployment of Generative AI Inferencing applications through NVIDIA Inference Microservices (NIM).
+Access an open-source stack consisting of drivers, development toolkits, and APIs designed for AMD Instinct accelerators.
+Read ROCm eBook
+Rapidly adopt secure agentic AI at scale with end-to-end on-premises solutions featuring Cohere North.
+Learn more about Cohere
+Explore Cohere Blueprint
+Utilise an open-source toolkit for optimising and deploying AI inferencing.
+Maximise GPU utilisation with an Al orchestration platform.
+Get more value from your data through a single platform that eliminates data silos and simplifies architectures.
+Learn more about Openshift
+Transform software development and automate coding workflows with enterprise-grade AI coding assistance.
+Learn more about Tabnine
+Explore Tabnine Blueprint
+vp_alert-inf-cir
+vp--chevron-right
+vp--chevron-left
+vp_dds2__icon--arrow-right
+Professional Services for AI
+With expertise at every stage, we provide comprehensive support that represents the third layer of the AI Factory, ensuring that your AI initiatives are expertly managed and optimised.
+Build strategy
+Establish an actionable strategy to align priorities and set a clear path forward.
+Prepare data
+Prepare and validate data for GenAI models for impactful and meaningful outputs.
+Implement
+Implement a robust GenAI platform primed for innovation with your priority use cases.
+Deploy & Test
+Deploy & test GenAI models with seamless integration and peak performance.
+Operate & Scale
+Operate & scale GenAI solutions, expand capabilities, and streamline operations.
+1 / 10
+Previous Slide
+Next Slide
+Explore professional services for AI
+cp_dds__icon--pop-up-arrow-corner
+cp--chevron-right
+cp--chevron-left
+cp_dds2__icon--arrow-right
+AI resources
+AI resources
+Labs, webinars & events
+Latest Updates
+Latest updates
+Additional Resources
+Additional resources
+Labs, webinars & events
+Previous Slide
+Next Slide
+AI Demos
+Browse our library of quick walkthrough demos that help you get familiar with key features of Dell AI solutions.
+Browse demos
+AI Events
+Register for and explore on-demand events to gain expertise and industry insight for the latest technology trends.
+Browse events
+Hands-on Labs
+Sign up to test drive Dell AI solutions for free in a real-time, user-friendly environment.
+Browse labs
+Showing page 1 of 1
+1/1
+AI Demos
+Browse our library of quick walkthrough demos that help you get familiar with key features of Dell AI solutions.
+Browse demos
+AI Events
+Register for and explore on-demand events to gain expertise and industry insight for the latest technology trends.
+Browse events
+Hands-on Labs
+Sign up to test drive Dell AI solutions for free in a real-time, user-friendly environment.
+Browse labs
+Latest updates
+Previous Slide
+Next Slide
+Quantum Computing
+Advance toward the quantum future with Dell research and expertise in hybrid quantum classical computing.
+Explore
+Accelerate Enterprise AI
+The Dell AI Factory with NVIDIA adds new AI solutions and services that accelerate agentic AI adoption and simplify AI deployment.
+Read more
+Read more about Accelerate Enterprise AI
+New PC Portfolio
+A redesigned PC portfolio boosts creativity and productivity for end users and simplifies AI for developers and IT administrators.
+Read more
+Read More about New PC Portfolio
+Quantum Computing
+Advance toward the quantum future with Dell research and expertise in hybrid quantum classical computing.
+Explore
+Accelerate Enterprise AI
+The Dell AI Factory with NVIDIA adds new AI solutions and services that accelerate agentic AI adoption and simplify AI deployment.
+Read more
+Read more about Accelerate Enterprise AI
+New PC Portfolio
+A redesigned PC portfolio boosts creativity and productivity for end users and simplifies AI for developers and IT administrators.
+Read more
+Read More about New PC Portfolio
+Additional resources
+Previous Slide
+Next Slide
+AI Solutions Blogs
+Learn how AI solutions from Dell Technologies drive business success for your digital future.
+Learn more
+Learn More about AI Solutions Blogs
+The Broadest AI Portfolio
+Prowess Consulting names Dell Technologies as the leader in AI infrastructure breadth, from edge to data center to cloud.
+Get the whitepaper
+HPC & AI Innovation Lab
+Dedicated to designing solutions and staying on the leading edge of new and emerging technologies, the Lab can help you keep pace with the constantly evolving landscape.
+Visit the innovation lab
+Social Impact
+Our commitment to delivering lasting impact for business, people and the planet.
+Learn more
+Learn More about Social Impact​
+IDC Snapshot: Banking Sector Boosts AI for Efficiency, Fraud Prevention and Customer Experience
+This IDC snapshot delivers an overview on how banking sector in APJ is adopting AI and Generative AI (GenAI) technologies to drive innovation and security across key business functions.
+Learn more
+Leveraging AI/GenAI in Manufacturing for Efficiency and Accuracy at Scale
+This IDC snapshot shares an overview on how AI is swiftly reshaping manufacturing, enabling industrial transformation and turning future potential into today’s reality in APJ.
+Learn more
+Unlocking Retail Efficiency: How AI and GenAI are Transforming Operations and Customer Engagement
+This IDC snapshot demonstrates how retailers are boosting AI investments to enhance operational efficiency, personalise experiences, streamline operations, reduce costs, and optimise decision-making in APJ.
+Learn more
+Leveraging AI and GenAI in Healthcare to Enhance Workflow Efficiency and Hyperpersonalise Patient Care
+This IDC snapshot shares how AI and GenAI are transforming healthcare across APJ by optimising clinical, operational, and administrative workflows, enhancing patient engagement, and augmenting clinician experience.
+Learn more
+Leveraging AI/GenAI in Energy Sector to Enhance Operations, Maintenance, and Sustainability
+This IDC snapshot demonstrates how AI and Generative AI (GenAI) technologies are rapidly transforming the energy sector, streamlining operations, and improving maintenance, security, and sustainability in APJ..
+Learn more
+AI Solutions Blogs
+Learn how AI solutions from Dell Technologies drive business success for your digital future.
+Learn more
+Learn More about AI Solutions Blogs
+The Broadest AI Portfolio
+Prowess Consulting names Dell Technologies as the leader in AI infrastructure breadth, from edge to data center to cloud.
+Get the whitepaper
+HPC & AI Innovation Lab
+Dedicated to designing solutions and staying on the leading edge of new and emerging technologies, the Lab can help you keep pace with the constantly evolving landscape.
+Visit the innovation lab
+Social Impact
+Our commitment to delivering lasting impact for business, people and the planet.
+Learn more
+Learn More about Social Impact​
+IDC Snapshot: Banking Sector Boosts AI for Efficiency, Fraud Prevention and Customer Experience
+This IDC snapshot delivers an overview on how banking sector in APJ is adopting AI and Generative AI (GenAI) technologies to drive innovation and security across key business functions.
+Learn more
+Leveraging AI/GenAI in Manufacturing for Efficiency and Accuracy at Scale
+This IDC snapshot shares an overview on how AI is swiftly reshaping manufacturing, enabling industrial transformation and turning future potential into today’s reality in APJ.
+Learn more
+Unlocking Retail Efficiency: How AI and GenAI are Transforming Operations and Customer Engagement
+This IDC snapshot demonstrates how retailers are boosting AI investments to enhance operational efficiency, personalise experiences, streamline operations, reduce costs, and optimise decision-making in APJ.
+Learn more
+Leveraging AI and GenAI in Healthcare to Enhance Workflow Efficiency and Hyperpersonalise Patient Care
+This IDC snapshot shares how AI and GenAI are transforming healthcare across APJ by optimising clinical, operational, and administrative workflows, enhancing patient engagement, and augmenting clinician experience.
+Learn more
+Leveraging AI/GenAI in Energy Sector to Enhance Operations, Maintenance, and Sustainability
+This IDC snapshot demonstrates how AI and Generative AI (GenAI) technologies are rapidly transforming the energy sector, streamlining operations, and improving maintenance, security, and sustainability in APJ..
+Learn more

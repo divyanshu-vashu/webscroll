@@ -1,0 +1,13 @@
+{
+  "target_url": "https://www.dell.com/en-in/shop/scc/sc/private-cloud-solutions",
+  "extracted_at": "2026-05-10T14:45:14.737701+00:00",
+  "driver_used": "patchright",
+  "crawl_depth": 1,
+  "was_blocked": false,
+  "detection_type": "NORMAL",
+  "detection_score": 0,
+  "elapsed_seconds": 235.78,
+  "html_size_bytes": 285225,
+  "word_count": 701,
+  "error": null
+}
