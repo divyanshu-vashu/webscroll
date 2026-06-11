@@ -136,3 +136,4 @@ downloaded_files/
 .vashu
 *.bin
 storage/*
+storage/*/*.html
